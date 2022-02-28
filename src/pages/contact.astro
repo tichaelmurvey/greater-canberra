@@ -1,0 +1,30 @@
+---
+// Component Imports
+import MainLayout from '../layouts/MainLayout.astro';
+
+---
+<MainLayout>
+<section id="join-page-1">
+<h1>Contact us</h1>
+<h3>We'd love to hear from you</h3>
+<div class="two-column-section">
+    <div class="column one">
+        <form id="contact">
+            <label for="name">Name</label>
+            <input type="text" id="name">
+            <label for="email">Email address</label>
+            <input type="email" id="email">
+            <label for="message">Message</label>
+            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+            <input type="submit" name="submit" value="Submit">
+            <input type="reset" name="reset" value="Reset">
+        </form>
+    </div>
+    <div class="column two">
+    <div class="long-image-container">
+        <img class="full-height" src="../public/assets/library.jpg" alt="">
+    </div>
+    </div>
+</div>
+
+</MainLayout>

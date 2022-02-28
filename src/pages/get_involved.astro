@@ -1,0 +1,67 @@
+---
+// Component Imports
+import MainLayout from '../layouts/MainLayout.astro';
+import BigCard from '../components/BigCard.astro';
+---
+
+<MainLayout title = "Get involved">
+<section id="get-involved-page-1">
+    <BigCard>
+        <h1>Get Involved</h1>
+        <img class="aside" src="./public/assets/involved.png">
+        <h3>We get results when we work <span class="highlight blue">together</span></h3>
+        <p>Our members attend community meetings, join campaigns on specific development, work on submissions to government and help change the narrative.</p>
+        <h3>Join Greater Canberra</h3>
+        <p>
+        Becoming a member is the best way to get involved and contribute to the mission.
+Annual membership is $20, but you can contact us for consideration if you’re a student or lack income.
+        </p>
+        <a class="primary-link" href="../join">Become a member</a>
+
+        <p>
+        </p>
+    </BigCard>
+</section>
+<div class="middle-segment">
+<section id="get-involved-page-2">
+                <h2 class="right-side">How can I make a difference?</h2>
+	<div class="two-column-section">
+    	<div class="column one">
+            <img src="./public/assets/meeting.jfif">
+            <h4>Decisions are made by those who show up</h4>
+            <p>Will your suburb have vibrant, walkable neighbourhoods or endless sprawl?</p>
+            <p>Decisions about the types of development to allow are made in local consultations - which often represent only the interests of existing property values.  Our consultations team can connect you with meetings in your area. You can make a difference for housing affordability in Canberra just by turning up and being heard.</p>
+        </div>
+        <div class="column two">       
+            <img src="./public/assets/laptop.jfif">     
+            <h4>Changing the Conversation</h4>
+            <p>We know Canberrans want affordable housing and a beautiful, vibrant city. But many don’t see the link between better zoning policies and this better vision. Our communications team is working to change that through traditional media, social media and publications.</p>
+        </div>
+        <div class="column three">
+            <img src="./public/assets/assembly.jpg"> 
+            <h4>Speaking truth to power</h4>
+            <p>How do you think Canberra’s zoning laws should change? What should the territory allow to be built? As Canberra’s housing affordability advocacy group, we’re often invited by government to have a say on zoning decisions and planning reform. We work with our community to research and develop informed viewpoints on critical issues.</p>
+        </div>
+    </div>
+</section>
+</div>
+
+<section id="get-involved-page-3">
+    <h2>Keep in touch</h2>
+    <p>If you want to participate in our campaigns, petitions and projects, or just hear about what’s going on, there are many ways to stay connected.</p>
+    <div class="two-column-section">
+    <BigCard>
+        <h3>Mailing list</h3>
+        <img src="./public/assets/email.jfif" class="aside">
+        <p>Sign up to our mailing list to get news and updates on major campaigns (We don’t spam!)</p>
+	    <a class="primary-link" href="../mail">Subscribe</a>
+        </BigCard>
+        <BigCard>
+        <h3>Discord</h3>
+        <img src="./public/assets/discord.png" class="aside">
+        <p>Join our community on Discord, including urbanism discussion, campaign planning, and working groups</p>
+        <a class="primary-link" href="../discord">Join the Discord</a>
+        </BigCard>
+        </div>
+</section>
+</MainLayout>

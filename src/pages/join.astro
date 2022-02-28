@@ -1,0 +1,116 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+---
+
+<MainLayout title="Join">
+<section id="join-page-1">
+<h1>Join Greater Canberra</h1>
+<div class="two-column-section">
+    <div class="column one">
+        <p>Fields are required unless they are marked as optional.</p>
+        <form id="join"> 
+            <label for="first-name">First name</label>
+            <input type="text" aria-required="true" id="first-name" name="first-name" autocomplete="given-name">
+
+            <label for="first-name">Last name</label>
+            <input type="text" aria-required="true" id="last-name" name="last-name" autocomplete="family-name">
+
+            <label for="email-address" >Email address</label>
+            <input type="email" aria-required="true" name="email-address" id="email-address" autocomplete="email">
+
+            <label for="suburb">What suburb do you normally live or sleep in? (Optional)</label>
+            <input type="text" aria-required="false" name="suburb" id="suburb">
+
+            <label for="politics">Have you ever been a member of, or volunteered for, a political party? Please provide details.</label>
+            <textarea name="politics" id="politics" cols="30" rows="10" aria-required="true"></textarea>
+            <fieldset class="industries">
+                <legend>Have you ever worked in any of the following industries?</legend>
+                <div class="wrapper">
+                    <label for="property-development">
+                        <input type="checkbox" id="property-development" class="custom-checkbox" name="industry">
+                        Property development
+                    </label>
+                    <label for="political">
+                        <input type="checkbox" id="political" class="custom-checkbox" name="industry">
+                        Political or advocacy group
+                    </label>
+                    <label for="media">
+                        <input type="checkbox" id="media" class="custom-checkbox" name="industry">
+                        Media organisation
+                    </label>
+                    <label for="none">
+                        <input type="checkbox" id="none" class="custom-checkbox" name="industry">
+                        None of the above
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset class="age" aria-required="true">
+                <legend>Age</legend>
+                <div class="wrapper">
+                    <label for="15-or-below">            
+                        <input type="radio" id="15-or-below" class="custom-radio" name="age">
+                        15 or below
+                    </label>
+                    <label for="16-24">            
+                        <input type="radio" id="16-24" class="custom-radio" name="age">
+                        16 - 24
+                    </label>
+                    <label for="25-39">            
+                        <input type="radio" id="25-39" class="custom-radio" name="age">
+                        25 - 39
+                    </label>
+                    <label for="40-64">            
+                        <input type="radio" id="40-64" class="custom-radio" name="age">
+                        40 - 64
+                    </label>
+                    <label for="65-above">
+                        <input type="radio" id="65-above" class="custom-radio" name="age">
+                        65 or above
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset class="gender" aria-required="true">
+                <legend>Gender</legend>
+                <div class="wrapper">
+                    <label for="non-binary">
+                        <input type="radio" id="non-binary" class="custom-radio" name="gender">
+                        Non-binary
+                    </label>
+                    <label for="female">
+                        <input type="radio" id="female" class="custom-radio" name="gender">
+                        Female
+                    </label>
+                    <label for="male">
+                        <input type="radio" id="male" class="custom-radio" name="gender">
+                        Male
+                    </label>
+                    <label for="no-response">
+                        <input type="radio" id="no-response" class="custom-radio" name="gender">
+                        Prefer not to say
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset class="housing" aria-required="true">
+                <legend>Housing status</legend>
+                <div class="wrapper">
+                    <label for="renter">
+                        <input type="radio" id="renter" class="custom-radio" name="housing">
+                        Renter
+                    </label>
+                    <label for="owner">
+                        <input type="radio" id="owner" class="custom-radio" name="housing">
+                        Owner-occupier
+                    </label>
+                </div>
+            </fieldset>
+            <input type="submit" name="submit" value="Submit">
+            <input type="reset" name="reset" value="Reset">
+        </form>
+    </div>
+    <div class="column two">
+        <p>You can also contact us directly via <a href="mailto:greatercanberra@gmail.com">email</a>, or join our Discord server.</p>
+        <img class="full-height" src="../public/assets/surface.jpg" alt="">
+    </div>
+    </div>
+</div>
+</MainLayout>
