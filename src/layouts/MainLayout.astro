@@ -1,0 +1,49 @@
+---
+import NavList from '../components/NavList.astro';
+let {title} = Astro.props;
+
+---
+
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Oswald:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{title}</title>
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <style global>
+        @import "../styles/global.css";
+    </style>
+    <script src='../src/app.js'></script>
+</head>
+
+<body>
+    <header>
+        <nav class="site-nav" role="navigation">
+            <div class="nav-header">
+                <div class="logo">
+                    <a href="/" aria-label="home">
+                        <img src="./public/assets/GC_letterhead_black.png" alt="Greater Canberra logo">
+                    </a>
+                </div>
+                <button aria-label="Expand site navigation" class="menu-toggle" onclick="expandMenu()">☰</button>
+                <NavList type = "menu desktop-menu"/>
+            </div>
+        </nav>
+                        <NavList type = "menu mobile-menu"/>
+    </header>
+        <main>
+            <slot></slot>
+        </main>
+            <footer>
+            <p>Authorised by Howard Maclean for Greater Canberra Inc.</p>
+            <div id="sm-links">
+                <a class="sm-link" href="https://www.facebook.com/GreaterCanberra"><img src="../public/assets/fb.svg" alt=""></a>
+                <a class="sm-link" href="https://twitter.com/GreaterCanberra"><img src="../public/assets/twitter.svg" alt=""></a>
+            </div>
+        </footer>
+</body>
+</html>
