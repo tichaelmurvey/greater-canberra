@@ -1,0 +1,61 @@
+---
+// Component Imports
+import MainLayout from '../layouts/MainLayout.astro';
+import BigCard from '../components/BigCard.astro';
+
+---
+
+<MainLayout title = "Greater Canberra">
+		<section id="front-page-1">
+			<BigCard>
+				<h1>Canberra can have <span class="highlight blue">affordable</span> housing</h1>
+				<img class="aside" src="./public/assets/canberra1.jpg">
+				<h3>We're on a mission to make that happen</h3>
+				<p>We believe the best way to reduce rents and house prices is to build more housing. We believe in a future where housing is abundant, and where everyone can enjoy a more sustainable and liveable city. Together with our members, we’re making this future a reality.</p>
+				<a class="primary-link" href="../join">Join us</a>
+			</BigCard>
+		</section>
+		<div class="middle-segment">
+			<section id="front-page-2">
+				<div class="two-column-section reversed">
+					<div class="column one">
+										<h2>Let’s say yes to a more <span class="highlight blue">affordable</span> Canberra</h2>
+																<h3>Let’s <span class="highlight green">legalise</span> affordable housing</h3>
+						<p>Harmful planning policies currently make it too hard to build the kinds of affordable, sustainable housing we need.</p>
+						<p>By reforming our planning laws to enable more housing choices in high demand neighbourhoods, we can lower house prices and grow our local economy.</p>
+						<p>By building up rather than out, we can reduce damaging urban sprawl, shorten commute times, and lower our carbon footprint.</p>
+						<a class="primary-link right" href="../src/pages/news">Learn more</a>
+
+					</div>
+					<div class="column two">
+												<img class="graph" src="../public/assets/canberra_house_prices.png" alt="Graph showing Canberra house prices increased by 139% and rental prices by 79% since 2003">
+							<h3>High housing costs mean we all lose out</h3>
+						<p>All of us want to be able to afford to live near family, jobs and community. But our current high rents and house prices mean many Canberrans are facing severe financial stress. By building more housing in growth areas, we can stop the skyrocketing prices, and free up more money to spend in the local community.</p>
+						<a class="primary-link right" href="../src/pages/news">Learn more</a>
+					</div>
+				</div>
+			</section>
+		</div>
+		<section id="front-page-3">
+			<h2>How <span class="highlight green">you</span> can make a difference</h2>
+				<div class="bubbles">
+				<div class="bubble">
+					<img src="../public/assets/hands.svg" alt="">
+					<h3>Show up</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quae, sed consectetur, eos, officia reiciendis molestiae libero labore suscipit consequuntur expedita? Laudantium harum similique maxime iusto, suscipit dolore ad repellat!</p>
+				</div>
+				<div class="bubble">
+					<img src="../public/assets/chat.svg" alt="">
+					<h3>Speak out</h3>
+					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat ipsum earum dolorum eum rem quibusdam, eius natus provident necessitatibus nemo. Provident non corporis impedit commodi nam necessitatibus nobis! Saepe, nobis.</p>
+				</div>
+				<div class="bubble">
+					<img src="../public/assets/write.svg" alt="">
+					<h3>Write in</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam repudiandae vel libero reiciendis soluta porro inventore illum rem error, adipisci quam explicabo numquam ad deserunt. Dicta ex laudantium quos doloremque?</p>
+				</div>
+			</div>
+			<a href="../src/get-involved" class="primary-link right">Become a member</a>
+		</section>
+</MainLayout>
+
