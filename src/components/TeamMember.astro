@@ -1,0 +1,17 @@
+---
+let {name} = Astro.props;
+let {role} = Astro.props;
+let {image} = Astro.props;
+---
+
+<li class="profile">
+    <div class="about-text">
+        <h4 class="name">
+            {name}
+        </h4>
+        <p class="role">
+            {role}
+        </p>
+    </div>
+    <img src={image} alt={name}>
+</li>
