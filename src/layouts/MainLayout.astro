@@ -19,6 +19,19 @@ let {title} = Astro.props;
 </head>
 
 <body>
+<script>
+function expandMenu() {
+    menu = $(".mobile-menu");
+    menu.slideToggle();
+}
+var current_title = $(document).attr('title');
+$("ul li a").each(function() { 
+        console.log($(this).text());
+        if($(this).text() == current_title){
+            $(this).addClass("active")
+        }
+    });    
+</script>
     <header>
         <nav class="site-nav" role="navigation">
             <div class="nav-header">
