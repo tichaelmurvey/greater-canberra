@@ -1,0 +1,51 @@
+---
+// Component Imports
+import MainLayout from '../layouts/MainLayout.astro';
+import BigCard from '../components/BigCard.astro';
+import TeamMember from '../components/TeamMember.astro';
+---
+
+
+<MainLayout title = "Who we are">
+<section id="about-page-1">
+    <BigCard>
+        <h1><span class="highlight blue">Canberrans</span> with a shared vision</h1>
+        <img class="aside" src="../public/assets/park.jpg">
+        <p>Greater Canberra is a community advocacy group committed to affordable and high-quality housing in Canberra.</p>
+        <p>Our members are a mix of renters and homeowners, at different stages of life and levels of wealth, and come from a variety of backgrounds and professions. What unites us is our commitment to the vision that by improving our housing policy and planning rules, we can make Canberra a more affordable, liveable, and sustainable city.</p>
+        <p>We’re not a partisan group - our members come from many political parties, and we’ll work with anyone in politics committed to improving our housing situation. </p>
+        <p>We have an open structure - anyone concerned with the state of housing in Canberra is welcome to join our community, contribute to the conversation, and help out with our campaigns and projects.</p>
+        <a href="../values" class="primary-link">Our values</a>
+        <a href="../campaigns" class="primary-link nestle">Our campaigns</a>
+    </BigCard>
+</section>
+
+<div class="middle-segment">
+    <section id="about-page-2">
+        <h2>Our team</h2>
+        <p>Greater Canberra has an open structure, and all members participate in our campaigns and projects. Our Committee help keep the lights on.</p>
+        <ul class="team-grid">
+            <TeamMember name="Howard Maclean" role="Convener and spokesperson" image = "../public/assets/person.png" />
+            <TeamMember name="Andrew Donnellan" role="Secretary" image = "../public/assets/person.png" />
+            <TeamMember name="Matt Bowes" role="" image = "../public/assets/person.png" />
+            <TeamMember name="Ed Smyth" role="Treasurer" image = "../public/assets/person.png" />
+            <TeamMember name="Aymon Wuolanne" role="" image = "../public/assets/person.png" />
+            <TeamMember name="Eben Leifer" role="" image = "../public/assets/person.png" />
+            <TeamMember name="Michael Turvey" role="Deputy convener" image = "../public/assets/person.png" />
+        </ul>
+    </section>
+
+
+</div>
+<section id="about-page-3">
+    <h2>Links and documents</h2>
+    <h3>Governance</h3>
+    <p><a href="">Constitution</a></p>
+    <p><a href="">Statement of Objects</a></p>
+    <h4>Meetings</h4>
+    <p><a href="">Inaugral General Meeting</a></p>
+    <p><a href="">Another meeting</a></p>
+    <p><a href="">Another meeting</a></p>
+</section>
+
+</MainLayout>
