@@ -13,13 +13,13 @@ import MainLayout from '../layouts/MainLayout.astro';
             <input type="text" id="full-name" name="full-name" autocomplete="name" required>
 
             <label for="email-address" >Email address</label>
-            <input type="email" required name="email-address" id="email-address" autocomplete="email" required>
+            <input type="email" required name="email-address" id="email-address" autocomplete="email">
 
             <label for="suburb">What suburb do you normally live or sleep in? (Optional)</label>
             <input type="text" aria-required="false" name="suburb" id="suburb">
 
             <label for="politics">Have you ever been a member of, or volunteered for, a political party? Please provide details.</label>
-            <textarea name="politics" id="politics" cols="30" rows="10" required></textarea>
+            <textarea name="politics" id="politics" cols="30" rows="5" required></textarea>
             <fieldset class="industries">
                 <legend>Have you ever worked in any of the following industries?</legend>
                 <div class="wrapper">
@@ -101,12 +101,12 @@ import MainLayout from '../layouts/MainLayout.astro';
                 </div>
             </fieldset>
             <input type="submit" name="submit" value="Submit">
-            <input type="reset" name="reset" value="Reset">
         </form>
     </div>
     <div class="column two">
-        <p>You can also contact us directly via <a href="mailto:greatercanberra@gmail.com">email</a>, or join our Discord server.</p>
-        <img class="full-height" src="/assets/surface.jpg" alt="">
+        <div class="long-image-container">
+            <img class="full-height" src="/assets/surface.jpg" alt="">
+        </div>
     </div>
     </div>
     </section>
