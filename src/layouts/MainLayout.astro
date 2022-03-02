@@ -18,34 +18,37 @@ let {title} = Astro.props;
     </style>
 </head>
 
-<body>
+<body onload="myFunction();">
 <script>
 function expandMenu() {
     menu = $(".mobile-menu");
     menu.slideToggle();
 }
 var current_title = $(document).attr('title');
-$("ul li a").each(function() { 
+function myFunction() {
+$(".site-nav a").each(function() { 
         console.log($(this).text());
-        if($(this).text() == current_title){
+        if($(this).text().includes(current_title)){
             $(this).addClass("active")
         }
     });    
+}
+
 </script>
     <header>
         <nav class="site-nav" role="navigation">
-            <div class="nav-header">
-                <div class="logo">
-                    <a href="/" aria-label="home">
-                        <img src="/assets/gc-logo-black.png" alt="Greater Canberra logo">
-                        <span>Greater Canberra</span>
-                    </a>
-                </div>
+        <div class="nav-container">
+            <div class="nav-topper">
+                <a href="/" aria-label="home" class="logo">
+                    <img src="/assets/gc-logo-black.png" alt="Greater Canberra logo">
+                    Greater Canberra
+                </a>
                 <button aria-label="Expand site navigation" class="menu-toggle" onclick="expandMenu()">☰</button>
-                <NavList type = "menu desktop-menu"/>
+            </div>                    
+            <NavList type = "menu desktop-menu"/>
+            <NavList type = "menu mobile-menu"/>
             </div>
         </nav>
-                        <NavList type = "menu mobile-menu"/>
     </header>
         <main>
             <slot></slot>

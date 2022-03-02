@@ -262,33 +262,28 @@ input[type="reset"] {
 }
 
 /* ============================= NAVBAR =================== */
-
-.menu {
-  display: none;
-}
-
-.nav-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 50px;
-  margin: auto;
-  background-color: #fff;
-  width: 90%;
-}
-
 .site-nav {
-  height: 50px;
   position: fixed;
-  background: #fff;
+  background-color: #fff;
   top: 0;
   width: 100%;
   z-index: 100;
 }
 
+.nav-topper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  display: none;
+}
+
 .menu-toggle {
+  position: absolute;
+  right: 10px;
   font-size: 3em;
-  float: right;
   background: none;
   color: inherit;
   border: none;
@@ -297,11 +292,20 @@ input[type="reset"] {
   outline: inherit;
 }
 
+.logo {
+  padding: 0;
+  font-size: 1.5rem;
+  margin: 0 !important;
+  padding: 0;
+  float: right;
+}
+
 .logo img {
-  height: 40px;
+  height: 30px;
   width: initial;
   border-radius: 0;
   fill: red;
+  display: inline;
 }
 
 ul.menu {
@@ -310,8 +314,7 @@ ul.menu {
   padding: 0;
 }
 
-.menu a,
-.logo a {
+.site-nav a {
   color: black;
   text-decoration: none;
   display: block;
@@ -333,14 +336,21 @@ ul.menu {
   border-top: 1px solid #18191a;
 } */
 
-.menu .active {
+.mobile-menu .active {
   box-shadow: inset 20px 0 0 0 white, inset 40px 0 0 0 #66cfe7;
 }
 
 /* Tablet and above */
 @media only screen and (min-width: 992px) {
-  .nav-header {
+  .nav-container {
     border-bottom: 2px solid black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    margin: auto;
+    width: 90%;
   }
 
   .menu-toggle,
@@ -351,7 +361,7 @@ ul.menu {
     display: block !important;
   }
 
-  .menu .active {
+  .site-nav .active {
     box-shadow: inset 0 -10px 0 0 #66cfe7;
   }
   .site-nav li {
@@ -360,24 +370,10 @@ ul.menu {
     margin-left: 90px;
   }
 
-  .logo a {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    height: 100%;
-  }
-
-  .logo span {
-    font-size: 1.5rem;
-    margin-left: 10px;
-    height: 100%;
-  }
-  .menu a {
+  .site-nav a {
     padding: 0;
   }
-
-  .menu a:hover,
-  .logo a span:hover {
+  .site-nav a:hover {
     box-sizing: content-box;
     box-shadow: inset 0 -10px 0 0 #ff5c00;
     color: black;
