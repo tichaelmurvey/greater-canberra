@@ -1,0 +1,19 @@
+---
+    import MainLayout from '../layouts/MainLayout.astro';
+    const data = Astro.fetchContent('../public/blogs/*.md'); // returns an array of posts
+---
+
+<MainLayout>
+<h1>What's happening</h1>
+
+<div>
+{data.slice(0, 3).map((post) => (
+  <article>
+    <h1>{post.title}</h1>
+    <p>{post.description}</p>
+    <a href={post.url}>Read more</a>
+  </article>
+))}
+</div>
+
+</MainLayout>
