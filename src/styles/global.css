@@ -221,7 +221,7 @@ footer {
 /* Primary link */
 
 .primary-link,
-button {
+.form-button {
   display: block;
   width: 40%;
   margin: auto;
@@ -241,7 +241,7 @@ button {
 
 @media only screen and (min-width: 992px) {
   .primary-link,
-  button {
+  .form-button {
     display: inline-block;
     width: auto;
     margin-right: 50px;
@@ -545,13 +545,13 @@ fieldset label {
   margin-top: 5px;
 }
 
-button {
+.form-button {
   font-family: "Cabin", sans-serif;
   font-size: 1em;
   border: none;
 }
 
-button:hover {
+.form-button:hover {
   background-color: #110077;
   box-shadow: 5px 5px #110077bb, 10px 10px #11007750;
   cursor: pointer;
