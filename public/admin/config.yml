@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   repo: tichaelmurvey/greater-canberra
+  branch: main
 publish_mode: editorial_workflow
 media_folder: "public/assets" # Media files will be stored in the repo
 
