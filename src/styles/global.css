@@ -431,9 +431,9 @@ footer {
   img.aside {
     object-fit: cover;
     width: 40%;
-    height: 75%;
+    height: 80%;
     position: absolute;
-    top: 15%;
+    top: 10%;
     right: 0%;
   }
 }
