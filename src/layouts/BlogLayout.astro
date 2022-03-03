@@ -1,0 +1,12 @@
+---
+// Example src/layout/BlogPostLayout.astro
+import MainLayout from '../layouts/MainLayout.astro'
+const {content} = Astro.props;
+---
+<MainLayout title={content.title}>
+    <section>
+      <h1>{content.title}</h1>
+  <h5>Post author: {content.author}</h5>
+  <slot />
+    </section>
+</MainLayout>
