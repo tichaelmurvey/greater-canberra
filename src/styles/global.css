@@ -1,4 +1,11 @@
 /* ===================== TEXT STYLING ======================*/
+:root {
+  --blue: #66cfe7;
+  --white: #ffffff;
+  --orange: #ff5c00;
+  --green: rgb(36, 194, 36);
+}
+
 body {
   font-family: "Cabin", sans-serif;
   font-size: 18px;
