@@ -133,14 +133,20 @@ img.full-height {
 }
 
 /* Bubbles */
-
-.bubble img {
+.bubble-img {
   width: 10%;
   border: 5px solid white;
   border-radius: 100%;
   padding: 10px;
   background-color: #110077;
   display: none;
+  overflow: visible;
+}
+
+.bubble-img img {
+  position: relative;
+  top: 5px;
+  border-radius: 0;
 }
 
 .bubble {
@@ -152,10 +158,37 @@ img.full-height {
   margin: 10px;
 }
 
-.bubble-icon {
-  border-radius: 100%;
-  border: 5px solid white;
-  background-color: #110077;
+@media only screen and (min-width: 992px) {
+  #front-page-3 {
+    max-width: 100%;
+  }
+  .bubbles {
+    margin: 20px 0;
+    display: grid;
+    grid-gap: 50px;
+    max-width: 100%;
+  }
+  .bubble {
+    box-sizing: border-box;
+    position: relative;
+    grid-column-start: 2;
+    grid-column-end: 2;
+  }
+  .bubbles div:nth-child(1) {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }
+  .bubble-img {
+    display: block;
+    position: absolute;
+    left: -45px;
+    top: 20px;
+  }
+
+  .bubbles img {
+  }
 }
 
 footer {
@@ -342,11 +375,11 @@ ul.menu {
 @media only screen and (min-width: 992px) {
   .nav-container {
     border-bottom: 2px solid black;
-    height: 50px;
     display: flex;
+    flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
-    height: 50px;
+    min-height: 50px;
     margin: auto;
     width: 90%;
   }
@@ -356,7 +389,8 @@ ul.menu {
     display: none !important;
   }
   .desktop-menu {
-    display: block !important;
+    display: flex;
+    align-items: center;
   }
 
   .site-nav .active {
@@ -366,6 +400,7 @@ ul.menu {
     font-size: 1.5rem;
     float: left;
     margin-left: 90px;
+    padding: 3px 0;
   }
 
   .site-nav a {
@@ -439,37 +474,6 @@ footer {
 }
 
 /* ================== FRONT PAGE ================= */
-
-@media only screen and (min-width: 992px) {
-  #front-page-3 {
-    max-width: 100%;
-  }
-  .bubbles {
-    margin: 20px 0;
-    display: grid;
-    grid-gap: 50px;
-    max-width: 100%;
-  }
-  .bubbles div {
-    box-sizing: border-box;
-    position: relative;
-    grid-column-start: 2;
-    grid-column-end: 2;
-  }
-  .bubbles div:nth-child(1) {
-    grid-column-start: 1;
-    grid-column-end: 1;
-    grid-row-start: 1;
-    grid-row-end: 3;
-  }
-  .bubbles img {
-    display: block;
-    position: absolute;
-    left: -45px;
-    top: 20px;
-  }
-}
-
 img.house {
   display: none;
 }
