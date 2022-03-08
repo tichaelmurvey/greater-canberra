@@ -26,8 +26,9 @@ function expandMenu() {
     menu.slideToggle();
 }
 var current_title = $(document).attr('title');
+current_title = current_title.split(" |")[0]
 function myFunction() {
-$(".site-nav a").each(function() { 
+$(".nav-container a").each(function() { 
         console.log($(this).text());
         if($(this).text().includes(current_title)){
             $(this).addClass("active")
