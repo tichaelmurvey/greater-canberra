@@ -24,6 +24,12 @@ let {title} = Astro.props;
 function expandMenu() {
     menu = $(".mobile-menu");
     menu.slideToggle();
+    menu_toggle = $("#menu-toggle");
+    if(menu_toggle.attr("aria-expanded") == "false"){
+        menu_toggle.attr("aria-expanded", "true")
+    } else{
+        menu_toggle.attr("aria-expanded", "false")
+    } 
 }
 var current_title = $(document).attr('title');
 current_title = current_title.split(" |")[0]
@@ -32,12 +38,14 @@ $(".nav-container a").each(function() {
         console.log($(this).text());
         if($(this).text().includes(current_title)){
             $(this).addClass("active")
+            $(this).attr("aria-current", "page")
         }
     });    
 }
 
 </script>
     <header>
+        <a class="skip-link" href="#main">Skip to main content</a>
         <nav class="site-nav" role="navigation">
         <div class="nav-container">
             <div class="nav-topper">
@@ -45,14 +53,14 @@ $(".nav-container a").each(function() {
                     <img src="/assets/gc-logo-black.png" alt="Greater Canberra logo">
                     Greater Canberra
                 </a>
-                <button aria-label="Expand site navigation" class="menu-toggle" onclick="expandMenu()">☰</button>
+                <button id="menu-toggle" aria-expanded="false" aria-controls="menu" class="menu-toggle" onclick="expandMenu()"><img src="assets/hamburger_icon.svg" alt=""></button>
             </div>                    
             <NavList type = "menu desktop-menu"/>
             <NavList type = "menu mobile-menu"/>
             </div>
         </nav>
     </header>
-        <main>
+        <main id="main">
             <slot></slot>
         </main>
             <footer>
