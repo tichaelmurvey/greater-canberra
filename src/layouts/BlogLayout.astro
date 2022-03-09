@@ -1,14 +1,32 @@
 ---
 // Example src/layout/BlogPostLayout.astro
 import MainLayout from '../layouts/MainLayout.astro'
+import ArticleFeed from '../components/ArticleFeed.astro'
 const {content} = Astro.props;
 ---
 <MainLayout title={content.title}>
-    <section>
+    <section class="blog-display">
+    <article class="full-page-article">
       <h1>{content.title}</h1>
       <img src={ content.thumbnail }>
   <h5>Post author: {content.author}</h5>
   <h5>Date: {content.date}</h5>
+  <div class="article-body">
   <slot />
+  </div>
+  </article>
+    <aside class="article-feed-sidebar">
+      <ArticleFeed />
+      <a class="primary-link" href="/news">More articles</a>
+    </aside>
     </section>
+        <script>
+    body_imgs = $(".article-body img");
+    even_imgs = []
+    for(i=0; i<body_imgs.length; i++){
+      if(i%2==1){
+        body_imgs.eq(i).addClass("odd")
+      }
+    }
+    </script>
 </MainLayout>
