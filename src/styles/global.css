@@ -159,6 +159,8 @@ img.full-height {
 }
 
 footer {
+  position: fixed;
+  bottom: 0;
   width: 90%;
   margin: auto;
 }
