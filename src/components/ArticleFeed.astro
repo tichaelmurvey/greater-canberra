@@ -1,0 +1,19 @@
+---
+    import { Markdown } from 'astro/components';
+    const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
+---
+
+
+<h2>More posts</h2>
+{data.slice(0, 5).map((post) => (
+      <a class="article-link" href={post.url}>
+  <article>
+    <img src={post.thumbnail} alt="">
+    <h3>{post.title}</h3>
+    <span class="sample">
+    <Markdown content={post.astro.source} />
+    </span>
+  </article>
+      </a>
+
+))}
