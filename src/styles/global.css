@@ -124,7 +124,6 @@ h4 .highlight.orange {
 section {
   width: 90%;
   margin: auto;
-  margin-bottom: 5vh;
   padding: 30px 0;
 }
 
@@ -683,17 +682,19 @@ article.secondary img{
 
 .all-post-feed article{
   display: flex;
-  height: 200px;
+  height: 250px;
   align-items: center;
-  margin: 40px 0;
+  margin-bottom: 40px;
+  box-shadow: 10px 10px 10px grey;
+
 }
 
 .all-post-feed img{
   width: 30%;
   object-fit: cover;
-  height: 100%;
+  height: 80%;
 }
 
-.all-post-feed h2{
+.all-post-feed .feed-text{
   margin-left: 30px;
 }

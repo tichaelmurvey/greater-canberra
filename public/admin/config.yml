@@ -21,7 +21,9 @@ collections:
           time_format: "",
         }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Description", name: "description", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Sources", name: "sources", widget: "markdown", required: false}
       - {
           label: "Layout",
           name: "layout",

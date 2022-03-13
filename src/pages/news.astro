@@ -35,11 +35,14 @@
 </section>
 <section>
   <div class="all-post-feed">
-        {allPosts.slice(0, allPosts.length).map((post) => (
+        {allPosts.slice(4, allPosts.length).map((post) => (
     <a class="wrapper-link" href={post.url}>
     <article class="preview-article">
       <img src={post.thumbnail} alt="">
+      <div class="feed-text">
       <h2>{post.title}</h2>
+      <p>{post.description}</p>
+      </div>
     </article>
     </a>
   ))}
