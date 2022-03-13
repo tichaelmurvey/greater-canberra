@@ -667,3 +667,33 @@ fieldset label {
   box-shadow: 0 0 0 2px black, 0 0 0 4px white;
   outline: 2px solid black;
 }
+
+
+/* =================== News =================== */
+
+article.secondary img{
+  height: 200px;
+  object-fit: cover;
+}
+
+.wrapper-link{
+  text-decoration: none;
+  color: black;
+}
+
+.all-post-feed article{
+  display: flex;
+  height: 200px;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.all-post-feed img{
+  width: 30%;
+  object-fit: cover;
+  height: 100%;
+}
+
+.all-post-feed h2{
+  margin-left: 30px;
+}

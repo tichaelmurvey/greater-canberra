@@ -1,21 +1,48 @@
 ---
     import MainLayout from '../layouts/MainLayout.astro';
-    const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
+    import BigCard from '../components/BigCard.astro'
+    // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
+    let allPosts = await Astro.fetchContent('../pages/blog/*.md');
+    allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+    let featured = allPosts[0];
 ---
 
 <MainLayout title="News">
-<h1>What's happening</h1>
 
-<div>
-<div>
-{data.slice(0, 3).map((post) => (
-  <article>
-    <h1>{post.title}</h1>
-    <p>{post.description}</p>
-    <a href={post.url}>Read more</a>
-  </article>
-))}
-</div>
-</div>
-
+<section>
+  <h1>What's happening</h1>
+  <BigCard>
+    <article>
+      <img class="aside" src={featured.thumbnail} alt="">
+      <h1>{featured.title}</h1>
+      <p>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</p>
+      <a class="primary-link" href={featured.url}>Read more</a>
+    </article>
+  </BigCard>
+</section>
+<section>
+  <div class="two-column-section">
+    {allPosts.slice(1, 4).map((post) => (
+    <a class="wrapper-link" href={post.url}>
+    <article class="secondary">
+      <img src={post.thumbnail} alt="">
+      <h2>{post.title}</h2>
+      <p>{post.description}</p>
+    </article>
+    </a>
+  ))}
+  </div>
+</section>
+<section>
+  <div class="all-post-feed">
+        {allPosts.slice(0, allPosts.length).map((post) => (
+    <a class="wrapper-link" href={post.url}>
+    <article class="preview-article">
+      <img src={post.thumbnail} alt="">
+      <h2>{post.title}</h2>
+    </article>
+    </a>
+  ))}
+  </div>
+</section>
 </MainLayout>
