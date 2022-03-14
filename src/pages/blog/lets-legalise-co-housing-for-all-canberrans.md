@@ -10,7 +10,7 @@ As economists such as [Brendan Coates have argued](https://grattan.edu.au/news/l
 
 It’s a national crisis. But there’s still plenty we as Canberrans can do to help. Legalising co-housing would be a step in the right direction.
 
-## **Our current laws make co-housing impossible**
+## **Our current laws make co-housing too hard**
 
 One of the biggest problems for people looking to downsize is the lack of affordable housing options in their neighbourhood. One great option [being trialled in Ainslie](https://www.stellulata.com.au) at the moment is co-housing: three smaller units with some shared amenities on a standard block.
 
