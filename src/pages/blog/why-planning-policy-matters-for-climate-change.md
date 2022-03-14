@@ -1,24 +1,25 @@
 ---
 title: Why planning policy matters for climate change
 author: Greater Canberra
-date: 14/03/2022
+date: 2022-03-14
 thumbnail: /assets/uploads/pexels-kushal-gopal-3971769.jpg
 description: Australia isn't alone in suffering the consequences of global warming
 layout: ../../layouts/BlogLayout.astro
 ---
+
 As the [IPCC's most recent report on climate change](https://www.theguardian.com/environment/2022/feb/28/what-is-the-ipcc-climate-change-report-and-what-will-it-say) makes clear, the consequences of unchecked global heating over the next century will be severe. Increased temperatures, water shortages, and more extreme weather events will impact people across Australia and the world - and [Canberra is no exception](https://www.environment.act.gov.au/cc/adapting-to-climate-change/local-climate-change-impacts).
 
-So it's worth highlighting why planning policy is a crucial tool in the fight against climate change. **Believe it or not, local decisions within our cities can make a big difference on a global issue.** 
+So it's worth highlighting why planning policy is a crucial tool in the fight against climate change. **Believe it or not, local decisions within our cities can make a big difference on a global issue.**
 
 ## **Less sprawl means less emissions**
 
 Canberra’s population is projected to grow by 50% by 2050. How we house these new residents makes a huge difference to our carbon footprint.
 
-Under current policies, many of the new residents we'll welcome over the coming years will be forced to: 
+Under current policies, many of the new residents we'll welcome over the coming years will be forced to:
 
-* Build on greenfield land, rather than in existing urban areas  
-* Rely on polluting cars rather than bikes or public transport 
-* Live in freestanding homes with inefficient climate control systems, rather than more efficient joined-up building designs
+- Build on greenfield land, rather than in existing urban areas
+- Rely on polluting cars rather than bikes or public transport
+- Live in freestanding homes with inefficient climate control systems, rather than more efficient joined-up building designs
 
 All of this increases our carbon emissions.
 

@@ -712,11 +712,18 @@ article.secondary img {
 
 #secondary-articles a {
   flex-grow: 1;
-  max-width: 30%;
+  padding: 0 20px;
 }
 
 #secondary-articles h3 {
   margin-bottom: 0;
+}
+
+#secondary-articles a:first-child {
+  padding-left: 0px;
+}
+#secondary-articles a:last-child {
+  padding-right: 0px;
 }
 
 .wrapper-link {

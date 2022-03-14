@@ -1,12 +1,13 @@
 ---
 title: Let's legalise co-housing for all Canberrans
 author: Greater Canberra
-date: 14/03/2022
+date: 2022-03-14
 thumbnail: /assets/uploads/stellulata-cohousing.png
 description: Designs for the Stellulata Cohousing at https://www.stellulata.com.au
 layout: ../../layouts/BlogLayout.astro
 ---
-As economists such as [Brendan Coates have argued](https://grattan.edu.au/news/levelling-the-playing-field-its-time-for-a-national-shared-equity-scheme/), high house prices are pushing older renters and recently separated women across Australia into financial stress. 
+
+As economists such as [Brendan Coates have argued](https://grattan.edu.au/news/levelling-the-playing-field-its-time-for-a-national-shared-equity-scheme/), high house prices are pushing older renters and recently separated women across Australia into financial stress.
 
 It’s a national crisis. But there’s still plenty we as Canberrans can do to help. Legalising co-housing would be a step in the right direction.
 
@@ -20,9 +21,9 @@ Sounds like a great idea right? There’s just one problem: this kind of home is
 
 ## Canberra can lead the way on housing affordability
 
-It’s always great to see policy experts taking housing affordability seriously at the national level. But it’s also easy to feel overwhelmed at the scale of the issue. 
+It’s always great to see policy experts taking housing affordability seriously at the national level. But it’s also easy to feel overwhelmed at the scale of the issue.
 
-**In reality, we don’t even have to look beyond our own backyard to make a difference.** 
+**In reality, we don’t even have to look beyond our own backyard to make a difference.**
 
 Our current planning rules make it too hard to build the homes we need, in the areas they're needed most. That's why it's so great to see more local politicians [advocating for reforms](https://the-riotact.com/greens-less-than-impressed-with-governments-missed-co-housing-opportunity/535943) to enable more co-housing projects.
 

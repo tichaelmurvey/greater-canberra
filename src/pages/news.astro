@@ -4,7 +4,8 @@
     import { Markdown } from 'astro/components';
     // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
     let allPosts = await Astro.fetchContent('../pages/blog/*.md');
-    allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+    allPosts = allPosts.sort((a, b) => new Date(a.date).valueOf() - new Date(b.date).valueOf());
+    allPosts = allPosts.reverse();
     let featured = allPosts[0];
 ---
 
