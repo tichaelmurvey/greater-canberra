@@ -1,5 +1,6 @@
 ---
 title: Let's legalise co-housing for all Canberrans
+author: Greater Canberra
 date: 14/03/2022
 thumbnail: /assets/uploads/stellulata-cohousing.png
 description: Designs for the Stellulata Cohousing at https://www.stellulata.com.au
