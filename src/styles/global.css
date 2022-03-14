@@ -5,6 +5,10 @@
   --green: rgb(36, 194, 36);
 }
 
+html{
+  height: 100%;
+}
+
 body {
   font-family: "Cabin", sans-serif;
   font-size: 18px;
