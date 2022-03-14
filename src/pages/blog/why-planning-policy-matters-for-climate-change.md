@@ -10,7 +10,7 @@ As the [IPCC's most recent report on climate change](https://www.theguardian.com
 
 So it's worth highlighting why planning policy is a crucial tool in the fight against climate change. **Believe it or not, local decisions within our cities can make a big difference on a global issue.** 
 
-## **Less sprawl = less emissions**
+## **Less sprawl means less emissions**
 
 Canberra’s population is projected to grow by 50% by 2050. How we house these new residents makes a huge difference to our carbon footprint.
 
