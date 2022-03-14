@@ -12,7 +12,9 @@ body {
   margin: 0;
   padding: 0;
   padding-top: 60px;
+  min-height: 100vh;
 }
+
 /* =============== a11y ================= */
 .skip-link {
   padding: 1em 2em;
@@ -120,8 +122,12 @@ h4 .highlight.orange {
 
 /*================== STRUCTURE COMPONENTS ======================== */
 /* Main page structure */
+main {
+  margin-bottom: 40px;
+}
 
 section {
+  position: relative;
   width: 90%;
   margin: auto;
   padding: 20px 0;
@@ -216,12 +222,6 @@ img.full-height {
     left: -45px;
     top: 20px;
   }
-}
-
-footer {
-  bottom: 0;
-  width: 90%;
-  margin: auto;
 }
 
 @media only screen and (min-width: 992px) {
@@ -375,10 +375,11 @@ footer {
   .form-button {
     display: inline-block;
     width: auto;
-    margin-right: 50px;
   }
   .primary-link.right {
-    float: right;
+    display: block;
+    width: fit-content;
+    margin-left: auto;
     margin-right: 0;
   }
 }
@@ -525,6 +526,7 @@ footer {
   color: white;
   padding: 12px;
   box-sizing: border-box;
+  margin: auto;
 }
 
 #sm-links {
@@ -552,6 +554,7 @@ footer {
 @media only screen and (min-width: 992px) {
   .shadow-box {
     position: relative;
+    margin-bottom: 30px;
   }
   .shadow-box-inner {
     max-width: 75%;
@@ -562,6 +565,7 @@ footer {
     max-width: 70%;
   }
   img.aside {
+    max-height: none !important;
     width: 40%;
     height: 80%;
     position: absolute;

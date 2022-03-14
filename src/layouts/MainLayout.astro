@@ -66,14 +66,13 @@ $(".nav-container a").each(function() {
         <main id="main">
             <slot></slot>
         </main>
-            <footer>
-            <p>Authorised by Howard Maclean for Greater Canberra Inc.</p>
-            <p>Page is {path}</p>
-            <div id="sm-links">
-                <a class="sm-link" href="https://www.facebook.com/GreaterCanberra"><img src="/assets/fb.svg" alt=""></a>
-                <a class="sm-link" href="https://twitter.com/GreaterCanberra"><img src="/assets/twitter.svg" alt=""></a>
-            </div>
-        </footer>
+    <footer>
+        <p>Authorised by Howard Maclean for Greater Canberra Inc.</p>
+        <div id="sm-links">
+            <a class="sm-link" href="https://www.facebook.com/GreaterCanberra"><img src="/assets/fb.svg" alt=""></a>
+            <a class="sm-link" href="https://twitter.com/GreaterCanberra"><img src="/assets/twitter.svg" alt=""></a>
+        </div>
+    </footer>
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {

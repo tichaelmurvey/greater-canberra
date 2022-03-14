@@ -1,0 +1,15 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+---
+
+<MainLayout title="Mail">
+
+<section>
+<h1>Join the Greater Canberra mailing list</h1>
+    <p>Fields are required unless they are marked as optional.</p>
+    <form name="mailing list" action="/mail">
+        <input type="email">
+        <button class="form-button" type="subscribe" name="subscribe">Subscribe</button>
+    </form>
+</section>
+</MainLayout>
