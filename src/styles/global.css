@@ -4,18 +4,20 @@
   --orange: #ff5c00;
   --green: rgb(36, 194, 36);
 }
-html {
-  height: 100%;
+body {
+  position: relative;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 100px;
+  box-sizing: border-box;
 }
 
 body {
   font-family: "Cabin", sans-serif;
   font-size: 18px;
   color: 18191a;
-  margin: 0;
-  padding: 0;
   padding-top: 60px;
-  min-height: 100vh;
 }
 
 /* =============== a11y ================= */
@@ -383,6 +385,10 @@ img.full-height {
     display: inline-block;
     width: auto;
   }
+  .primary-link.nestle {
+    margin-left: 2em;
+  }
+
   .primary-link.right {
     display: block;
     width: fit-content;
@@ -527,6 +533,8 @@ ul.menu {
 
 /* ==================== FOOTER =========================== */
 footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   text-align: center;
   background: #18191a;
