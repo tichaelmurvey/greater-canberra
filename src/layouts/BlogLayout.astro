@@ -2,6 +2,7 @@
 // Example src/layout/BlogPostLayout.astro
 import MainLayout from '../layouts/MainLayout.astro'
 import ArticleFeed from '../components/ArticleFeed.astro'
+
 const {content} = Astro.props;
 ---
 <MainLayout title={content.title} seo_thumbnail={ content.thumbnail }>

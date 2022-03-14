@@ -1,6 +1,7 @@
 ---
     import MainLayout from '../layouts/MainLayout.astro';
     import BigCard from '../components/BigCard.astro'
+    import { Markdown } from 'astro/components';
     // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
     let allPosts = await Astro.fetchContent('../pages/blog/*.md');
     allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
@@ -15,7 +16,7 @@
     <article>
       <img class="aside" src={featured.thumbnail} alt="">
       <h2>{featured.title}</h2>
-      <p>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</p>
+      <Markdown>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</Markdown>
       <a class="primary-link" href={featured.url}>Read more</a>
     </article>
   </BigCard>
