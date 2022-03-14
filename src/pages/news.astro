@@ -16,11 +16,17 @@
     <article>
       <img class="aside" src={featured.thumbnail} alt="">
       <h2>{featured.title}</h2>
-      <Markdown>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</Markdown>
-      <a class="primary-link" href={featured.url}>Read more</a>
+      <p class="featured-content-container"><div class="featured-content">{featured.astro.html}</div></p>
+      <a class="primary-link right" href={featured.url}>Read more</a>
     </article>
   </BigCard>
 </section>
+<script>
+  let truncated = $(".featured-content").text().split(" ").slice(0,60).join(" ");
+  $(".featured-content").html("");
+  $(".featured-content-container").text(truncated+"...");
+</script>
+
 <section>
   <div class="two-column-section" id="secondary-articles">
     {allPosts.slice(1, 4).map((post) => (
