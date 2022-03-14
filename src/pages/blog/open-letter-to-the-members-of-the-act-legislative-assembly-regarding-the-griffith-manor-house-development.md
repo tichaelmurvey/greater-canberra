@@ -9,6 +9,10 @@ description: The Griffith Manor House open letter was submitted to the
   full text of the letter here.
 layout: ../../layouts/BlogLayout.astro
 ---
+The Griffith Manor House open letter was submitted to the Legislative Assembly in late 2021, with over 200 signatories. You can read the full text of the letter here.
+
+## The letter
+
 Dear Members of the ACT Legislative Assembly, 
 
 We have become aware of an ongoing campaign by a narrow but vocal minority opposing the Griffith Manor House Demonstration Housing Project (Territory Plan Draft Variation 375) that has mostly recently surfaced as a petition hosted by Elizabeth Lee MLA. This minority is not representative, but they are extremely energetic, and risk creating an appearance of popular support. We write this letter to you in part to disabuse you of such a misapprehension. 
@@ -30,3 +34,5 @@ We call upon all members to support Draft Variation 375 that would permit the Ma
 Above all else, we ask that members consider the interests of all Canberrans - including future and young Canberrans. Clinging to exclusionary zoning laws such as this to appease a loud minority of landholders is not in the interest of the Territory. 
 
 Regards,
+
+\[Signatory]
