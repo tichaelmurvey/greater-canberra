@@ -9,10 +9,11 @@ const {content} = Astro.props;
     <article class="full-page-article">
       <h1>{content.title}</h1>
       <img src={ content.thumbnail }>
-  <h5>Post author: {content.author}</h5>
-  <h5>Date: {content.date}</h5>
+  <h5>{content.author}</h5>
+  <h5>{content.date}</h5>
   <div class="article-body">
   <slot />
+  <p>{content.sources}</p>
   </div>
   <!-- </article>
     <aside class="article-feed-sidebar">
