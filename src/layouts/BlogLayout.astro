@@ -4,7 +4,7 @@ import MainLayout from '../layouts/MainLayout.astro'
 import ArticleFeed from '../components/ArticleFeed.astro'
 const {content} = Astro.props;
 ---
-<MainLayout title={content.title}>
+<MainLayout title={content.title} seo_thumbnail={ content.thumbnail }>
     <section class="blog-display">
     <article class="full-page-article">
       <h1>{content.title}</h1>
@@ -16,7 +16,7 @@ const {content} = Astro.props;
   </div>
   </article>
     <aside class="article-feed-sidebar">
-      <ArticleFeed />
+      <ArticleFeed title={content.title} />
       <a class="primary-link" href="/news">More articles</a>
     </aside>
     </section>
