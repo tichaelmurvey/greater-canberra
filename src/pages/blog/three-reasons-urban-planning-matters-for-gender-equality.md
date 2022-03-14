@@ -1,5 +1,6 @@
 ---
 title: Three reasons urban planning matters for gender equality
+author: Matthew Bowes
 date: 08/03/2022
 thumbnail: /assets/uploads/pexels-shvets-anna-2570060.png
 description: Urban design can make all the difference when it comes to women's
