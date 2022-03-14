@@ -281,7 +281,7 @@ img.full-height {
 
 .blog-display {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .article-body img {
