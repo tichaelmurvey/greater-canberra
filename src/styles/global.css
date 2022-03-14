@@ -12,7 +12,9 @@ body {
   margin: 0;
   padding: 0;
   padding-top: 60px;
+  min-height: 100vh;
 }
+
 /* =============== a11y ================= */
 .skip-link {
   padding: 1em 2em;
@@ -120,11 +122,15 @@ h4 .highlight.orange {
 
 /*================== STRUCTURE COMPONENTS ======================== */
 /* Main page structure */
+main {
+  margin-bottom: 40px;
+}
 
 section {
+  position: relative;
   width: 90%;
   margin: auto;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 /* Secondary page segment */
@@ -216,15 +222,6 @@ img.full-height {
     left: -45px;
     top: 20px;
   }
-
-  .bubbles img {
-  }
-}
-
-footer {
-  bottom: 0;
-  width: 90%;
-  margin: auto;
 }
 
 @media only screen and (min-width: 992px) {
@@ -284,19 +281,23 @@ footer {
 
 .blog-display {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .article-body img {
-  max-width: 30%;
-  float: left;
-  margin-right: 30px;
+  max-width: 80%;
 }
 
-.article-body img.odd {
+.article-body h2 {
+  font-family: "Cabin", sans-serif;
+  text-transform: none;
+  font-size: 2.5em;
+}
+
+/* .article-body img.odd {
   float: right;
   margin-left: 30px;
-}
+} */
 
 /* Blog feed */
 /* .blog-display * {
@@ -378,10 +379,11 @@ footer {
   .form-button {
     display: inline-block;
     width: auto;
-    margin-right: 50px;
   }
   .primary-link.right {
-    float: right;
+    display: block;
+    width: fit-content;
+    margin-left: auto;
     margin-right: 0;
   }
 }
@@ -528,6 +530,7 @@ footer {
   color: white;
   padding: 12px;
   box-sizing: border-box;
+  margin: auto;
 }
 
 #sm-links {
@@ -555,6 +558,7 @@ footer {
 @media only screen and (min-width: 992px) {
   .shadow-box {
     position: relative;
+    margin-bottom: 30px;
   }
   .shadow-box-inner {
     max-width: 75%;
@@ -565,7 +569,7 @@ footer {
     max-width: 70%;
   }
   img.aside {
-    object-fit: cover;
+    max-height: none !important;
     width: 40%;
     height: 80%;
     position: absolute;
@@ -667,34 +671,83 @@ fieldset label {
   outline: 2px solid black;
 }
 
-
 /* =================== News =================== */
+#secondary-articles,
+#more-news-desktop {
+  display: none;
+}
 
-article.secondary img{
+img.aside {
+  max-height: 50vh;
+  object-fit: cover;
+}
+
+@media only screen and (min-width: 992px) {
+  #more-news-mobile {
+    display: none;
+  }
+
+  #secondary-articles {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #more-news-desktop {
+    display: block;
+  }
+}
+
+.underline.blue {
+  border-bottom: 4px solid var(--blue);
+}
+
+.underline.orange {
+  border-bottom: 4px solid var(--orange);
+}
+
+article.secondary img {
   height: 200px;
   object-fit: cover;
 }
 
-.wrapper-link{
+#secondary-articles a {
+  flex-grow: 1;
+  padding: 0 20px;
+}
+
+#secondary-articles h3 {
+  margin-bottom: 0;
+}
+
+#secondary-articles a:first-child {
+  padding-left: 0px;
+}
+#secondary-articles a:last-child {
+  padding-right: 0px;
+}
+
+.wrapper-link {
   text-decoration: none;
   color: black;
 }
 
-.all-post-feed article{
+.all-post-feed article {
   display: flex;
-  height: 250px;
+  flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   margin-bottom: 40px;
   box-shadow: 10px 10px 10px grey;
-
+  padding: 0 20px;
 }
 
-.all-post-feed img{
-  width: 30%;
+.all-post-feed img {
+  min-width: 30%;
+  max-width: 90%;
   object-fit: cover;
   height: 80%;
 }
 
-.all-post-feed .feed-text{
+.all-post-feed .feed-text {
   margin-left: 30px;
 }

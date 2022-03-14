@@ -1,45 +1,69 @@
 ---
     import MainLayout from '../layouts/MainLayout.astro';
     import BigCard from '../components/BigCard.astro'
+    import { Markdown } from 'astro/components';
     // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
     let allPosts = await Astro.fetchContent('../pages/blog/*.md');
-    allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+    allPosts = allPosts.sort((a, b) => new Date(a.date).valueOf() - new Date(b.date).valueOf());
+    allPosts = allPosts.reverse();
     let featured = allPosts[0];
 ---
 
 <MainLayout title="News">
-
 <section>
-  <h1>News</h1>
+  <h1 class="underline blue">News</h1>
   <BigCard>
     <article>
       <img class="aside" src={featured.thumbnail} alt="">
-      <h1>{featured.title}</h1>
-      <p>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</p>
-      <a class="primary-link" href={featured.url}>Read more</a>
+      <h2>{featured.title}</h2>
+      <p class="featured-content-container"><div class="featured-content">{featured.astro.html}</div></p>
+      <a class="primary-link right" href={featured.url}>Read more</a>
     </article>
   </BigCard>
 </section>
+<script>
+  let truncated = $(".featured-content").text().split(" ").slice(0,60).join(" ");
+  $(".featured-content").html("");
+  $(".featured-content-container").text(truncated+"...");
+</script>
+
 <section>
-  <div class="two-column-section">
+  <div class="two-column-section" id="secondary-articles">
     {allPosts.slice(1, 4).map((post) => (
     <a class="wrapper-link" href={post.url}>
     <article class="secondary">
       <img src={post.thumbnail} alt="">
-      <h2>{post.title}</h2>
+      <h3>{post.title}</h3>
     </article>
     </a>
   ))}
   </div>
 </section>
-<section>
+<section id="more-news-desktop">
+<h2 class="underline orange">More articles</h2>
   <div class="all-post-feed">
         {allPosts.slice(4, allPosts.length).map((post) => (
     <a class="wrapper-link" href={post.url}>
     <article class="preview-article">
       <img src={post.thumbnail} alt="">
       <div class="feed-text">
-      <h2>{post.title}</h2>
+      <h3>{post.title}</h3>
+      <p>{post.description}</p>
+      </div>
+    </article>
+    </a>
+  ))}
+  </div>
+</section>
+<section id="more-news-mobile">
+<h2 class="underline orange">More articles</h2>
+  <div class="all-post-feed">
+        {allPosts.slice(1, allPosts.length).map((post) => (
+    <a class="wrapper-link" href={post.url}>
+    <article class="preview-article">
+      <img src={post.thumbnail} alt="">
+      <div class="feed-text">
+      <h3>{post.title}</h3>
       <p>{post.description}</p>
       </div>
     </article>
