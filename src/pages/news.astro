@@ -10,36 +10,53 @@
 <MainLayout title="News">
 
 <section>
-  <h1>What's happening</h1>
+  <h1 class="underline blue">News</h1>
   <BigCard>
     <article>
       <img class="aside" src={featured.thumbnail} alt="">
-      <h1>{featured.title}</h1>
+      <h2>{featured.title}</h2>
       <p>{featured.astro.source.split(" ").slice(0,40).join(" ")} ...</p>
       <a class="primary-link" href={featured.url}>Read more</a>
     </article>
   </BigCard>
 </section>
 <section>
-  <div class="two-column-section">
+  <div class="two-column-section" id="secondary-articles">
     {allPosts.slice(1, 4).map((post) => (
     <a class="wrapper-link" href={post.url}>
     <article class="secondary">
       <img src={post.thumbnail} alt="">
-      <h2>{post.title}</h2>
+      <h3>{post.title}</h3>
     </article>
     </a>
   ))}
   </div>
 </section>
-<section>
+<section id="more-news-desktop">
+<h2 class="underline orange">More articles</h2>
   <div class="all-post-feed">
         {allPosts.slice(4, allPosts.length).map((post) => (
     <a class="wrapper-link" href={post.url}>
     <article class="preview-article">
       <img src={post.thumbnail} alt="">
       <div class="feed-text">
-      <h2>{post.title}</h2>
+      <h3>{post.title}</h3>
+      <p>{post.description}</p>
+      </div>
+    </article>
+    </a>
+  ))}
+  </div>
+</section>
+<section id="more-news-mobile">
+<h2 class="underline orange">More articles</h2>
+  <div class="all-post-feed">
+        {allPosts.slice(1, allPosts.length).map((post) => (
+    <a class="wrapper-link" href={post.url}>
+    <article class="preview-article">
+      <img src={post.thumbnail} alt="">
+      <div class="feed-text">
+      <h3>{post.title}</h3>
       <p>{post.description}</p>
       </div>
     </article>

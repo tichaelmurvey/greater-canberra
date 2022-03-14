@@ -124,7 +124,7 @@ h4 .highlight.orange {
 section {
   width: 90%;
   margin: auto;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 /* Secondary page segment */
@@ -562,7 +562,6 @@ footer {
     max-width: 70%;
   }
   img.aside {
-    object-fit: cover;
     width: 40%;
     height: 80%;
     position: absolute;
@@ -664,34 +663,72 @@ fieldset label {
   outline: 2px solid black;
 }
 
-
 /* =================== News =================== */
+#secondary-articles,
+#more-news-desktop {
+  display: none;
+}
 
-article.secondary img{
+img.aside {
+  max-height: 50vh;
+  object-fit: cover;
+}
+
+@media only screen and (min-width: 992px) {
+  #more-news-mobile {
+    display: none;
+  }
+
+  #secondary-articles {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #more-news-desktop {
+    display: block;
+  }
+}
+
+.underline.blue {
+  border-bottom: 4px solid var(--blue);
+}
+
+.underline.orange {
+  border-bottom: 4px solid var(--orange);
+}
+
+article.secondary img {
   height: 200px;
   object-fit: cover;
 }
 
-.wrapper-link{
+#secondary-articles a {
+  flex-grow: 0.3;
+}
+
+#secondary-articles h3 {
+  margin-bottom: 0;
+}
+
+.wrapper-link {
   text-decoration: none;
   color: black;
 }
 
-.all-post-feed article{
+.all-post-feed article {
   display: flex;
   height: 250px;
   align-items: center;
   margin-bottom: 40px;
   box-shadow: 10px 10px 10px grey;
-
 }
 
-.all-post-feed img{
+.all-post-feed img {
   width: 30%;
   object-fit: cover;
   height: 80%;
 }
 
-.all-post-feed .feed-text{
+.all-post-feed .feed-text {
   margin-left: 30px;
 }
