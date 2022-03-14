@@ -1,30 +1,11 @@
 ---
     import { Markdown } from 'astro/components';
-    // const paths = import.meta.glob('../pages/blog/*.md', { assert: { type: 'raw' } }));
-    // const paths = Object.keys(import.meta.glob('../pages/blog/*.md'));
-    const title = Astro.props.title;
-    // let safe_paths =[];
-    console.log("========= Now processing page:" + title);
-    // let title_process = title.toLowerCase();
-    // title_process = title_process.replace(/ /g, "-")
-    // title_process = "../pages/blog/"+title_process+".md"
-    // console.log("Processed as: " + title_process);
-    // for(let i=0; i<paths.length; i++){
-    //   if(paths[i] != title_process){
-    //     safe_paths.push(paths[i]);
-    //   }
-    // }
-    // console.log(safe_paths);
-    // console.log(safe_paths[3]);
-    // const oogabooga = '../pages/blog/oogabooga.md'
-    // let articles = Astro.fetchContent('../pages/blog/oogabooga.md');
-    console.log(Astro.request)
-
+    // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
 ---
 
 
-<h2>More posts</h2>
-<!-- {articles.slice(0, 5).map((post) => (
+<!-- <h2>More posts</h2>
+{data.slice(0, 5).map((post) => (
       <a class="article-link" href={post.url}>
   <article>
     <img src={post.thumbnail} alt="">
@@ -34,4 +15,5 @@
     </span>
   </article>
       </a>
-))}; -->
+
+))} -->

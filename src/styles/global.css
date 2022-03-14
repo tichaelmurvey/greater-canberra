@@ -124,7 +124,6 @@ h4 .highlight.orange {
 section {
   width: 90%;
   margin: auto;
-  margin-bottom: 5vh;
   padding: 30px 0;
 }
 
@@ -220,6 +219,7 @@ img.full-height {
 }
 
 footer {
+  bottom: 0;
   width: 90%;
   margin: auto;
 }
@@ -662,4 +662,36 @@ fieldset label {
 :focus {
   box-shadow: 0 0 0 2px black, 0 0 0 4px white;
   outline: 2px solid black;
+}
+
+
+/* =================== News =================== */
+
+article.secondary img{
+  height: 200px;
+  object-fit: cover;
+}
+
+.wrapper-link{
+  text-decoration: none;
+  color: black;
+}
+
+.all-post-feed article{
+  display: flex;
+  height: 250px;
+  align-items: center;
+  margin-bottom: 40px;
+  box-shadow: 10px 10px 10px grey;
+
+}
+
+.all-post-feed img{
+  width: 30%;
+  object-fit: cover;
+  height: 80%;
+}
+
+.all-post-feed .feed-text{
+  margin-left: 30px;
 }
