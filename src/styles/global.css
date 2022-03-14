@@ -285,15 +285,13 @@ img.full-height {
 }
 
 .article-body img {
-  max-width: 30%;
-  float: left;
-  margin-right: 30px;
+  max-width: 80%;
 }
 
-.article-body img.odd {
+/* .article-body img.odd {
   float: right;
   margin-left: 30px;
-}
+} */
 
 /* Blog feed */
 /* .blog-display * {
