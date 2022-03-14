@@ -711,7 +711,8 @@ article.secondary img {
 }
 
 #secondary-articles a {
-  flex-grow: 0.3;
+  flex-grow: 1;
+  max-width: 30%;
 }
 
 #secondary-articles h3 {
@@ -725,14 +726,17 @@ article.secondary img {
 
 .all-post-feed article {
   display: flex;
-  height: 250px;
+  flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   margin-bottom: 40px;
   box-shadow: 10px 10px 10px grey;
+  padding: 0 20px;
 }
 
 .all-post-feed img {
-  width: 30%;
+  min-width: 30%;
+  max-width: 90%;
   object-fit: cover;
   height: 80%;
 }
