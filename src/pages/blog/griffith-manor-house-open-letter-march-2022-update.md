@@ -36,7 +36,7 @@ Unfortunately, there isn't a fixed timeline for this stage of the process, and w
 
 If the decision is made to proceed, the variation will be referred to the Legislative Assembly Standing Committee on Planning, Transport and City Services for comment. The Committee may choose to hold a public inquiry. If there is an inquiry, we will be participating to make sure that your views are heard and reflected in the report.
 
-Once the Committee has finished deliberating, the final step is approval by the Minister for Planning and Land Management. If granted, this will clear the way for the Manor House's proponents to… * \*drum roll\* * submit a Development Application for the building, which will take at least several more months to consider. Yep, we know, this is a lengthy and complex process!
+Once the Committee has finished deliberating, the final step is approval by the Minister for Planning and Land Management. If granted, this will clear the way for the Manor House's proponents to... *\*drum roll\** submit a Development Application for the building, which will take at least several more months to consider. Yep, we know, this is a lengthy and complex process!
 
 Of course, the goal of the Demonstration Housing Project isn't just to build a handful of new homes for a lucky few - it's to figure out what types of housing could work in Canberra long-term. We'll be continuing to engage with EPSDD, the Minister's office and the Assembly to make sure that the outcomes of the Manor House - and other demonstration projects, like Stellulata Cohousing in Ainslie and In Loco in Forrest - are properly evaluated so that the rules can change for all of us.
 
