@@ -722,6 +722,10 @@ img.aside {
   #more-news-desktop {
     display: block;
   }
+  #more-news-desktop .all-post-feed {
+    max-width: 60%;
+    margin: auto;
+  }
 }
 
 .underline.blue {

@@ -44,13 +44,13 @@
   <div class="all-post-feed">
         {allPosts.slice(4, allPosts.length).map((post) => (
     <a class="wrapper-link" href={post.url}>
-    <article class="preview-article">
-      <img src={post.thumbnail} alt="">
+    <BigCard>
+      <img class="aside" src={post.thumbnail} alt="">
       <div class="feed-text">
       <h3>{post.title}</h3>
       <p>{post.description}</p>
       </div>
-    </article>
+    </BigCard>
     </a>
   ))}
   </div>
