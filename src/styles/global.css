@@ -425,13 +425,18 @@ img.full-height {
 .menu-toggle {
   position: absolute;
   right: 10px;
-  font-size: 3em;
+  max-width: 10%;
+  max-height: 100%;
   background: none;
   color: inherit;
   border: none;
   padding: 0;
   cursor: pointer;
   outline: inherit;
+}
+
+.menu-toggle img {
+  border-radius: 0;
 }
 
 .logo {
