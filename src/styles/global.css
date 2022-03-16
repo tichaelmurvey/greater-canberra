@@ -288,10 +288,22 @@ img.full-height {
   max-width: 80%;
 }
 
+article h1 {
+  font-size: 2em;
+}
+
 .article-body h2 {
   font-family: "Cabin", sans-serif;
   text-transform: none;
-  font-size: 2.5em;
+  font-size: 1.5em;
+}
+@media only screen and (min-width: 992px) {
+  article h1 {
+    font-size: 4rem;
+  }
+  .article-body h2 {
+    font-size: 2.5em;
+  }
 }
 
 /* .article-body img.odd {
