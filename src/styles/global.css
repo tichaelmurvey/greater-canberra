@@ -4,6 +4,14 @@
   --orange: #ff5c00;
   --green: rgb(36, 194, 36);
 }
+body {
+  position: relative;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 100px;
+  box-sizing: border-box;
+}
 
 html{
   height: 100%;
@@ -13,10 +21,7 @@ body {
   font-family: "Cabin", sans-serif;
   font-size: 18px;
   color: 18191a;
-  margin: 0;
-  padding: 0;
   padding-top: 60px;
-  min-height: 100vh;
 }
 
 /* =============== a11y ================= */
@@ -36,7 +41,8 @@ body {
 
 /* ===================== TEXT STYLING ======================*/
 
-p {
+p,
+li {
   line-height: 2em;
 }
 
@@ -283,19 +289,26 @@ img.full-height {
 
 /* Blog display */
 
-.blog-display {
-  display: flex;
-  justify-content: center;
-}
-
 .article-body img {
   max-width: 80%;
+}
+
+article h1 {
+  font-size: 2em;
 }
 
 .article-body h2 {
   font-family: "Cabin", sans-serif;
   text-transform: none;
-  font-size: 2.5em;
+  font-size: 1.5em;
+}
+@media only screen and (min-width: 992px) {
+  article h1 {
+    font-size: 4rem;
+  }
+  .article-body h2 {
+    font-size: 2.5em;
+  }
 }
 
 /* .article-body img.odd {
@@ -353,6 +366,10 @@ img.full-height {
   .full-page-article {
     max-width: 70%;
   }
+  .blog-display {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 /* ===================== INTERACTIVE COMPONENTS ==================== */
@@ -384,6 +401,10 @@ img.full-height {
     display: inline-block;
     width: auto;
   }
+  .primary-link.nestle {
+    margin-left: 2em;
+  }
+
   .primary-link.right {
     display: block;
     width: fit-content;
@@ -421,13 +442,18 @@ img.full-height {
 .menu-toggle {
   position: absolute;
   right: 10px;
-  font-size: 3em;
+  max-width: 10%;
+  max-height: 100%;
   background: none;
   color: inherit;
   border: none;
   padding: 0;
   cursor: pointer;
   outline: inherit;
+}
+
+.menu-toggle img {
+  border-radius: 0;
 }
 
 .logo {
@@ -528,6 +554,8 @@ ul.menu {
 
 /* ==================== FOOTER =========================== */
 footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   text-align: center;
   background: #18191a;
@@ -698,6 +726,10 @@ img.aside {
 
   #more-news-desktop {
     display: block;
+  }
+  #more-news-desktop .all-post-feed {
+    max-width: 60%;
+    margin: auto;
   }
 }
 

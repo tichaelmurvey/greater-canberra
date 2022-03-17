@@ -1,15 +1,23 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
+import MailChimp from '../components/mailchimp.astro'
 ---
 
 <MainLayout title="Mail">
 
 <section>
 <h1>Join the Greater Canberra mailing list</h1>
-    <p>Fields are required unless they are marked as optional.</p>
-    <form name="mailing list" action="/mail">
+<p>You'll receive 1-2 emails per month.</p>
+<p>You'll receive emails about:</p>
+<ul>
+<li>Important and contested developments in your local area</li>
+<li>Major campaigns and petitions Greater Canberra are running</li>
+<li>Events you can attend</li>
+</ul>
+    <MailChimp/>
+    <!-- <form name="mailing list" action="/mail">
         <input type="email">
         <button class="form-button" type="subscribe" name="subscribe">Subscribe</button>
-    </form>
+    </form> -->
 </section>
 </MainLayout>

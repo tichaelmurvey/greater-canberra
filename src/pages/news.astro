@@ -1,6 +1,10 @@
 ---
     import MainLayout from '../layouts/MainLayout.astro';
     import BigCard from '../components/BigCard.astro'
+    import MailChimp from '../components/mailchimp.astro'
+
+      
+
     import { Markdown } from 'astro/components';
     // const data = Astro.fetchContent('../pages/blog/*.md'); // returns an array of posts that live at ./src/pages/post/*.md
     let allPosts = await Astro.fetchContent('../pages/blog/*.md');
@@ -40,20 +44,28 @@
   </div>
 </section>
 <section id="more-news-desktop">
-<h2 class="underline orange">More articles</h2>
-  <div class="all-post-feed">
+<div class="two-column-section">
+  <div class="all-post-feed column">
+  <h2 class="underline orange">More articles</h2>
         {allPosts.slice(4, allPosts.length).map((post) => (
     <a class="wrapper-link" href={post.url}>
-    <article class="preview-article">
-      <img src={post.thumbnail} alt="">
+    <BigCard>
+      <img class="aside" src={post.thumbnail} alt="">
       <div class="feed-text">
       <h3>{post.title}</h3>
       <p>{post.description}</p>
       </div>
-    </article>
+    </BigCard>
     </a>
   ))}
   </div>
+  <div class="column">
+  <h3>Subscribe to our mailing list</h3>
+  <p>For more news, campaign updates and events delivered to your inbox, sign up to the Greater Canberra mailing list.</p>
+    <MailChimp />
+  </div>
+</div>
+
 </section>
 <section id="more-news-mobile">
 <h2 class="underline orange">More articles</h2>
@@ -69,6 +81,11 @@
     </article>
     </a>
   ))}
+  </div>
+    <div class="column">
+  <h3>Subscribe to our mailing list</h3>
+  <p>For more news, campaign updates and events delivered to your inbox, sign up to the Greater Canberra mailing list.</p>
+    <MailChimp />
   </div>
 </section>
 </MainLayout>
