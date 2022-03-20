@@ -1,7 +1,7 @@
 ---
 title: It's time to show our support for social housing in Ainslie
 author: Greater Canberra
-date: 2022-03-19
+date: 2022-03-20
 thumbnail: /assets/uploads/276057713_135424049009813_4119249007812615753_n.jpg
 description: The YWCA is building social housing for women in need. But they
   need our help to make it happen.
@@ -11,7 +11,7 @@ Canberrans believe in taking care of those without a home. Unfortunately, urgent
 
 **That's why Greater Canberra is calling for all Canberrans to show our support for YWCA's YHomes social housing project in Ainslie.** 
 
-Below we've outlined just some of the reasons why we're supporting this project, but if you're just keen to show your support you can head to the [YWCA website](https://ywca-canberra.org.au/make-a-representation-to-support-older-womens-housing-in-ainslie/), or come along to our event at 7pm this Wednesday 23 March (RSVPs via [Eventbrite](https://www.eventbrite.com.au/e/support-social-housing-for-women-in-need-tickets-301846489977) or [Facebook](https://fb.me/e/2wt72MuEu)). 
+If you're just keen to show your support, head to the [YWCA website](https://ywca-canberra.org.au/make-a-representation-to-support-older-womens-housing-in-ainslie/), or come along to our event at 7pm this Wednesday 23 March (RSVPs via [Eventbrite](https://www.eventbrite.com.au/e/support-social-housing-for-women-in-need-tickets-301846489977) or [Facebook](https://fb.me/e/2wt72MuEu)). 
 
 ## We need more social housing
 
