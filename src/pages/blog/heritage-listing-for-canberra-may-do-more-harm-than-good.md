@@ -2,7 +2,7 @@
 title: Heritage listing for Canberra may do more harm than good
 author: Andrew Donnellan
 date: 2022-03-29
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Canberra_viewed_from_Mount_Ainslie.jpg/800px-Canberra_viewed_from_Mount_Ainslie.jpg
+thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Our dynamic city needs affordable housing and adaptable
   infrastructure, not more more burdensome heritage rules.
 layout: ../../layouts/BlogLayout.astro
@@ -22,3 +22,5 @@ Heritage laws make sense for protecting Canberra’s many individual sites of si
 Andrew Donnellan
 
 Secretary, Greater Canberra Inc
+
+*[Photo credit: Derived from Jason Tong, Canberra from Mount Ainslie, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canberra_viewed_from_Mount_Ainslie.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)]*
