@@ -2,7 +2,7 @@
 title: "Media Release: Affordability should be front and centre of planning reforms"
 author: Greater Canberra
 date: 2022-03-16
-thumbnail: /assets/uploads/media-release.png
+thumbnail: /assets/uploads/media-release.jpg
 description: Greater Canberra welcomes the efforts to streamline our current
   planning system, but we call for the government to make affordability a core
   principle of the Planning Act.
