@@ -17,4 +17,12 @@ As ACT policymakers consider reforms to the ACT's planning legislation this year
 
 ## Urbanisation is an opportunity to decarbonise
 
-As the latest IPCC report makes clear, while emissions from cities are increasing,  continued urbanisation
+As the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
+
+> *The growing concentration of people and activities is an opportunity to increase resource efficiency and decarbonize at scale...For most regions, per capita urban emissions are lower than per capita national emissions.* (Chapter 8 Executive Summary)
+
+As cities make up an ever larger part of both the global and Australian population, a significant amount of urban development. However, far from being a risk to the climate, urban growth can advance climate action by scaling up development in carbon infrastructure, and enabling communities to reduce their combined carbon emissions.
+
+
+
+Unfortunately, this
