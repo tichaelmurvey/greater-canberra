@@ -17,7 +17,7 @@ As ACT policymakers consider reforms to the ACT's planning legislation this year
 
 ## 1. Urbanisation is an opportunity, not a threat
 
-Many people see dense cities, along with their cars, apartment buildings as anathema  However, the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
+Many people see dense cities, along with their cars, footpaths, and apartment buildings as anathema to climate action. However, the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
 
 > *The growing concentration of people and activities is an opportunity to increase resource efficiency and decarbonize at scale...For most regions, per capita urban emissions are lower than per capita national emissions.* (Chapter 8 Executive Summary)
 
