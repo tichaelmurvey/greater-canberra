@@ -15,14 +15,14 @@ Nonetheless, there are some positives. Importantly, the latest report provides a
 
 As ACT policymakers consider reforms to the ACT's planning legislation this year, here's three findings from the latest report they should consider.
 
-## Urbanisation is an opportunity to decarbonise
+## 1. Urbanisation is an opportunity, not a threat
 
-As the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
+Many people see dense cities, along with their cars, apartment buildings as anathema  However, the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
 
 > *The growing concentration of people and activities is an opportunity to increase resource efficiency and decarbonize at scale...For most regions, per capita urban emissions are lower than per capita national emissions.* (Chapter 8 Executive Summary)
 
-As cities make up an ever larger part of both the global and Australian population, a significant amount of urban development. However, far from being a risk to the climate, urban growth can advance climate action by scaling up development in carbon infrastructure, and enabling communities to reduce their combined carbon emissions.
+Far from being a risk to the climate, urban growth can advance climate action by attracting new investment in low-carbon infrastructure, and enabling communities to reduce their combined carbon emissions. As the IPCC finds:
 
+> *For the same level of consumption and basic services, an average urban dweller often requires less energy than their rural counterparts, due to higher population densities that enable sharing of infrastructure and services.* (Chapter 8 Box 8.1)
 
-
-Unfortunately, this
+Unfortunately, the fact that urban density can decrease carbon emissions is still yet to sink in among much of the public. ACT policymakers need to be clear about the state of the research, and bring the public along with them by highlighting the key role sustainable urbanisation can play in climate action.
