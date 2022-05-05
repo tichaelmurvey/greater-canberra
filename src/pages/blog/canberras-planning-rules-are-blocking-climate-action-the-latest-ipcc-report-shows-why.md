@@ -2,7 +2,7 @@
 title: Canberra's planning rules are blocking climate action - the latest IPCC
   report shows why
 author: ""
-date: 2022-04-25
+date: 2022-05-05
 thumbnail: /assets/uploads/pexels-leon-macapagal-2346004.jpg
 description: ...
 layout: ../../layouts/BlogLayout.astro
@@ -25,4 +25,22 @@ Far from being a risk to the climate, urban growth can advance climate action by
 
 > *For the same level of consumption and basic services, an average urban dweller often requires less energy than their rural counterparts, due to higher population densities that enable sharing of infrastructure and services.* (Chapter 8 Box 8.1)
 
-Unfortunately, the fact that urban density can decrease carbon emissions is still yet to sink in among much of the public. ACT policymakers need to be clear about the state of the research, and bring the public along with them by highlighting the key role sustainable urbanisation can play in climate action.
+Unfortunately, the fact that urban density can decrease carbon emissions is still [yet to sink in](https://twitter.com/sam_d_1995/status/1514389429120552960) among much of the public. ACT policymakers need to be clear about the state of the research, and bring the public along with them by highlighting the key role sustainable urbanisation can play in climate action.
+
+## 2. Suburban sprawl is making climate damage worse
+
+As the Chapter 8 of the report makes clear, the continued expansion of cities outwards, both in the developed and developing world, has serious impacts for both land use and urban heat:
+
+> *Under the current urbanization trajectory, 50-63% of newly expanded urban areas are expected to occur on current croplands...* 
+>
+> *Future urban expansion will amplify background warming caused by greenhouse gas emissions, with extreme warming most pronounced during night-time.* (Chapter 8 Section 8.4.3)
+
+That's not all however - suburban sprawl also increases carbon emissions by increasing transport fuel use and requiring more material infrastructure to house the same number of people. 
+
+The solutions aren't always simple, but they begin with one key innovation: building up not out. While urbanisation alone won't mitigate the worst impacts of climate change, the IPCC makes clear that climate action on the scale we need is almost impossible without a shift towards more walkable, compact and connected cities. 
+
+As the chart below shows, smarter urbanisation could make a huge cut to urban emissions:
+
+![Chart shows the greater carbon reductions possible if cities are rapidly made more compact and efficient.](/assets/uploads/screen-shot-2022-05-05-at-9.37.38-pm.png)
+
+### 3. Denser cities enable rapid climate action
