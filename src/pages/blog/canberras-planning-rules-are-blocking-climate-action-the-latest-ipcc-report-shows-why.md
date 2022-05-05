@@ -41,6 +41,6 @@ The solutions aren't always simple, but they begin with one key innovation: buil
 
 As the chart below shows, smarter urbanisation could make a huge cut to urban emissions:
 
-![Chart shows the greater carbon reductions possible if cities are rapidly made more compact and efficient.](/assets/uploads/screen-shot-2022-05-05-at-9.37.38-pm.png)
+![Chart shows the greater carbon reductions possible if cities are rapidly made more compact and efficient.](/assets/uploads/screen-shot-2022-05-05-at-9.37.38-pm.png "Figure 8.14 - Estimated urban emissions in two different scenarios")
 
 ### 3. Denser cities enable rapid climate action
