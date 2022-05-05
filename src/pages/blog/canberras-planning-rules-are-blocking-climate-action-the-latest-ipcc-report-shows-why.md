@@ -31,16 +31,16 @@ Unfortunately, the fact that urban density can decrease carbon emissions is stil
 
 As the Chapter 8 of the report makes clear, the continued expansion of cities outwards, both in the developed and developing world, has serious impacts for both land use and urban heat:
 
-> *Under the current urbanization trajectory, 50-63% of newly expanded urban areas are expected to occur on current croplands...* 
->
-> *Future urban expansion will amplify background warming caused by greenhouse gas emissions, with extreme warming most pronounced during night-time.* (Chapter 8 Section 8.4.3)
+*Under the current urbanization trajectory, 50-63% of newly expanded urban areas are expected to occur on current croplands...Future urban expansion will amplify background warming caused by greenhouse gas emissions, with extreme warming most pronounced during night-time.* (Chapter 8 Section 8.4.3)
 
 That's not all however - suburban sprawl also increases carbon emissions by increasing transport fuel use and requiring more material infrastructure to house the same number of people. 
 
-The solutions aren't always simple, but they begin with one key innovation: building up not out. While urbanisation alone won't mitigate the worst impacts of climate change, the IPCC makes clear that climate action on the scale we need is almost impossible without a shift towards more walkable, compact and connected cities. 
+The solutions aren't always simple, but they begin with one key innovation: building up not out. 
 
-As the chart below shows, smarter urbanisation could make a huge cut to urban emissions:
+The IPCC's report makes clear that climate action on the scale we need is almost impossible without a shift towards more walkable, compact and connected cities. As the chart below shows, smarter urbanisation would enable a huge cut to urban emissions:
 
-![Chart shows the greater carbon reductions possible if cities are rapidly made more compact and efficient.](/assets/uploads/screen-shot-2022-05-05-at-9.37.38-pm.png "Figure 8.14 - Estimated urban emissions in two different scenarios")
+![Chart shows the greater carbon reductions possible if cities are rapidly made more compact and efficient.](/assets/uploads/screen-shot-2022-05-05-at-9.37.38-pm.png)
+
+**Figure 8.14 - Estimated urban emissions in two different scenarios (IPCC AR6 WGIII)**
 
 ### 3. Denser cities enable rapid climate action
