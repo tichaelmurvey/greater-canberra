@@ -1,7 +1,7 @@
 ---
 title: Canberra's planning rules are blocking climate action - the latest IPCC
   report shows why
-author: ""
+author: Greater Canberra
 date: 2022-05-05
 thumbnail: /assets/uploads/pexels-leon-macapagal-2346004.jpg
 description: ...
@@ -11,7 +11,7 @@ The Intergovernmental Panel on Climate Change's (IPCC) [recent Working Group III
 
 Nonetheless, there are some positives. For the first time, the report also provides an array of evidence of the power of local policymakers to make deep cuts to our emissions by enabling more sustainable urban design. As ACT policymakers consider reforms to the ACT's planning legislation this year, here's three findings from they need to keep in mind.
 
-## 1. Urbanisation is an opportunity, not a threat
+### 1. Urbanisation is an opportunity, not a threat
 
 Many people see dense cities, along with their many busses, footpaths, and apartment buildings as anathema to climate action. However, as the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents a key opportunity to decrease emissions:
 
@@ -23,7 +23,7 @@ Far from being a risk to the climate, urban growth can advance climate action by
 
 Unfortunately, the fact that urban density can decrease carbon emissions is still [yet to sink in](https://twitter.com/sam_d_1995/status/1514389429120552960) among much of the public. ACT policymakers need to be clear about the state of the research, and bring the public along with them by highlighting the key role more compact cities can play in climate action.
 
-## 2. Suburban sprawl is making climate damage worse
+### 2. Suburban sprawl is making climate damage worse
 
 As the Chapter 8 of the report makes clear, the continued expansion of cities outwards, both in the developed and developing world, has serious impacts for both land use and urban heat:
 
@@ -46,7 +46,7 @@ Finally, the IPCC report also makes clear why denser and more connected cities a
 
 Canberra shares many of these goals, from increasing public transport usage, to electrifying households, to becoming a centre for clean innovation. Unfortunately, our planning system is working against us, by mixed-use developments and mid-density homes in many central areas, and requiring new homes to provide large amounts of off-street parking. 
 
-## There's no time to wait
+### There's no time to wait
 
 If Canberra wants to meet our amibitious climate goal of net zero by 2045, we need to move fast. And that doesn't just mean cleaner energy or less waste. It means changing our planning rules to enable a more sustainble city.
 
