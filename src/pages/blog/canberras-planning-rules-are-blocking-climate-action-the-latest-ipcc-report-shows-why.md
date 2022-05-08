@@ -9,11 +9,11 @@ layout: ../../layouts/BlogLayout.astro
 ---
 The Intergovernmental Panel on Climate Change's (IPCC) [recent Working Group III report](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) on climate mitigation makes for sobering reading. Under current policy settings, the world is on track for global heating of 3.2 °C by 2100. If we as Canberrans are serious about doing our bit for the climate, we need to act fast.
 
-Nonetheless, there are some positives. For the first time, the report also provides an array of evidence of the power of local policymakers to make deep cuts to our emissions by enabling more sustainable urban design. As ACT policymakers consider reforms to the ACT's planning legislation this year, here's three findings from they need to keep in mind.
+Nonetheless, there are some positives. For the first time, the report also provides an array of evidence of the power of local policymakers to make deep cuts to our emissions by enabling more sustainable urban design. As ACT policymakers consider reforms to the ACT's planning rules this year, here's three findings from they need to keep in mind.
 
 ### 1. Urbanisation is an opportunity, not a threat
 
-Many people see dense cities, along with their many busses, footpaths, and apartment buildings as anathema to climate action. However, as the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents a key opportunity to decrease emissions:
+Some people see dense cities, along with their many busses, footpaths, and apartment buildings as anathema to climate action. However, as the latest IPCC report makes clear, while emissions from cities are increasing, continued urbanisation still represents an important opportunity to decrease emissions:
 
 *The growing concentration of people and activities is an opportunity to increase resource efficiency and decarbonize at scale...For most regions, per capita urban emissions are lower than per capita national emissions.* (Chapter 8 Executive Summary)
 
@@ -29,11 +29,11 @@ As the Chapter 8 of the report makes clear, the continued expansion of cities ou
 
 *Under the current urbanization trajectory, 50-63% of newly expanded urban areas are expected to occur on current croplands...Future urban expansion will amplify background warming caused by greenhouse gas emissions.* (Chapter 8 Section 8.4.3)
 
-That's not all however - suburban sprawl also increases carbon emissions by increasing transport fuel use and requiring more building materials to house the same number of people. That's why the IPCC report argues that while there's many ways to cut urban emissions, they all involve building up not out:
+That's not all however - suburban sprawl also increases carbon emissions by increasing transport fuel use and requiring more emissions-intensive building materials to house the same number of people. That's why the IPCC report argues that while there's many ways to cut urban emissions, they all involve building up not out:
 
 *Low-carbon cities have the following characteristics: (1) co-located medium to high densities of housing, jobs, and commerce; (2) high mix of land uses; (3) high connectivity of streets; and (4) high levels of accessibility, distinguished by low travel distances...Modifying the layout of emerging urbanization to be more compact, walkable, and co-located can reduce future urban energy use by 20–25% by 2050.* (Chapter 8 Section 8.4.2)
 
-It's a message that Canberra's planners needs to take on board. Currently, [many of our inner city suburbs](https://www.abc.net.au/news/2022-04-08/can-radical-rezoning-solve-canberras-housing-crisis/100974080)  are still subject to extensive planning restrictions that make more compact infill homes or mixed-use neighbourhoods impossible. Together, these planning rules force us to rely on greenfield development far from jobs and amenities to accomodate population growth. If we're serious about climate action, that's going to have to change.
+It's a message that Canberra's planners needs to take on board. Currently, [many of our inner city suburbs](https://www.abc.net.au/news/2022-04-08/can-radical-rezoning-solve-canberras-housing-crisis/100974080) are still subject to extensive planning rules - from minimum parking requirements to height restrictions - that make more compact infill neighbourhoods impossible. Ultimately, these planning rules force us to rely on greenfield development far from jobs and amenities to accomodate population growth. If we're serious about climate action, that's going to have to change.
 
 ### 3. Denser cities enable innovation, efficiency, and electrification
 
@@ -44,10 +44,10 @@ Finally, the IPCC report also makes clear why denser and more connected cities a
 * Denser homes enable more efficient heating and cooling systems, along with a more rapid roll-out of clean electric infrastructure 
 * More connected cities create opportunities to innovate on the technologies that are key to reducing carbon emissions.
 
-Canberra shares many of these goals, from increasing public transport usage, to electrifying households, to becoming a centre for clean innovation. Unfortunately, our planning system is working against us, by mixed-use developments and mid-density homes in many central areas, and requiring new homes to provide large amounts of off-street parking. 
+Canberra shares many of these goals, from increasing public transport usage, to electrifying households, to becoming a centre for clean innovation. Unfortunately, our planning system is working against us by limiting mixed-use developments and mid-density homes in central areas, and requiring all new homes to provide large amounts of off-street parking. 
 
 ### There's no time to wait
 
-If Canberra wants to meet our amibitious climate goal of net zero by 2045, we need to move fast. And that doesn't just mean cleaner energy or less waste. It means changing our planning rules to enable a more sustainble city.
+If Canberra wants to meet our amibitious climate goal of net zero by 2045, we need to move fast. And that doesn't just mean cleaner energy or less waste. It means changing our planning rules to enable a more sustainable city.
 
 The research is clear. We just need our local politicians to step up and act.
