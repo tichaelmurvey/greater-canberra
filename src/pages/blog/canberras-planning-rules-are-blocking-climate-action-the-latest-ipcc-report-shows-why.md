@@ -50,4 +50,4 @@ Canberra shares many of these goals, from increasing public transport usage, to 
 
 If Canberra wants to meet our amibitious climate goal of net zero by 2045, we need to move fast. And that doesn't just mean cleaner energy or less waste. It means changing our planning rules to enable a more sustainable city.
 
-The research is clear. We just need our local politicians to step up and act.
+The research is clear. We need our local politicians to step up and act.
