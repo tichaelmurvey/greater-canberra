@@ -7,7 +7,7 @@ thumbnail: /assets/uploads/pexels-leon-macapagal-2346004.jpg
 description: The latest IPCC report shows sustainable cities are key to emissions reduction
 layout: ../../layouts/BlogLayout.astro
 ---
-The Intergovernmental Panel on Climate Change's (IPCC) [recent Working Group III report](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) on climate mitigation makes for sobering reading. Under current policy settings, the world is on track for global heating of 3.2 °C by 2100. If we as Canberrans are serious about doing our bit for the climate, we need to act fast.
+The Intergovernmental Panel on Climate Change's (IPCC) [recent Working Group III report](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) on climate mitigation makes for sobering reading. Under current policy settings, the world is on track for global heating of 3.2 °C by 2100. If Canberrans are serious about doing our bit for the climate, we need to act fast.
 
 Nonetheless, there are some positives. [Chapter 8 of the report](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_Chapter08.pdf) provides an array of evidence of the power of local policymakers to make deep cuts to our emissions by enabling more sustainable urban design. As ACT policymakers consider reforms to the ACT's planning rules this year, here's three findings from they need to keep in mind.
 
