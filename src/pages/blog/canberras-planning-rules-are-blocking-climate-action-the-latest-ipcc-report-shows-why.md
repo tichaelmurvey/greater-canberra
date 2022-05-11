@@ -4,7 +4,7 @@ title: Canberra's planning rules are blocking climate action - the latest IPCC
 author: Greater Canberra
 date: 2022-05-05
 thumbnail: /assets/uploads/pexels-leon-macapagal-2346004.jpg
-description: ...
+description: The latest IPCC report shows sustainable cities are key to emissions reduction
 layout: ../../layouts/BlogLayout.astro
 ---
 The Intergovernmental Panel on Climate Change's (IPCC) [recent Working Group III report](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) on climate mitigation makes for sobering reading. Under current policy settings, the world is on track for global heating of 3.2 °C by 2100. If we as Canberrans are serious about doing our bit for the climate, we need to act fast.
