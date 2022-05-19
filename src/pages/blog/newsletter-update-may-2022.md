@@ -8,7 +8,7 @@ layout: ../../layouts/BlogLayout.astro
 ---
 In just a few short months, Greater Canberra has grown from some friends organising a petition, to an organisation that’s making a real difference in the ACT planning debate by advocating for more housing and a more liveable and sustainable Canberra.
 
-Below we've outlined some recent achievements, and how you can get involved in upcoming campaigns and advocacy. 
+Below we've outlined some recent achievements, and how you can get involved in upcoming campaigns and advocacy.
 
 ## What we’ve been up to
 
