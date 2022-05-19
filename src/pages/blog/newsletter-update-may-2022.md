@@ -2,7 +2,7 @@
 title: Newsletter Update - May 2022
 author: Greater Canberra
 date: 2022-05-19
-thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
+thumbnail: /assets/uploads/img_20211007_143611.jpg
 description: Our newsletter update for May 2022
 layout: ../../layouts/BlogLayout.astro
 ---
