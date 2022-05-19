@@ -22,7 +22,7 @@ Finally, we’ve published some great articles and blog posts, including a piece
 
 There’s a number of ways you can help us achieve our goal of creating a more affordable, liveable and sustainable Canberra:
 
-* **Become a member, or get a friend or family member to join.** Membership is just $20 (or $10 for those not working), gives you access to our members-only discord channel, and helps support our work.
+* **[Become a member](https://www.greatercanberra.org/join/), or get a friend or family member to join.** Membership is just $20 (or $10 for those not working), gives you access to our members-only discord channel, and helps support our work.
 * **Join one of our teams.** We’re particularly looking for team members who can [write content, manage social media, and organise events](https://greatercanberra.us20.list-manage.com/track/click?u=9004282bcdb3c744f097e86f4&id=18de70adf1&e=6f4fd749f9), or consultation team members to help us identify and engage in consultation processes for important ACT housing projects.
 * **Keep us in the loop.** We keep our ears to the ground, but we do miss things from time to time. If there’s an opportunity to advocate for more and better housing in the ACT that you think we might have missed, let us know.
 
