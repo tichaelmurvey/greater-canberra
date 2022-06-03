@@ -48,7 +48,9 @@ Our research indicates that recent increases in ACT rents have had a marked impa
 
 Over the five years to March 2022, Canberra rents increased steadily at an average annual rate of around 2.8%, compared to annual CPI growth of around 2.6%. This has resulted in Canberra rents increasing by a total of 15% over the past five years, compared with an increase of just 3% in Sydney and a decrease of 2% in Melbourne (see Chart 1).
 
-![Chart showing Canberra rents have risen 15% over the past 5 years, compared to an increase of 3% in Sydney, and a decrease of 2% in Melbourne.](/assets/uploads/gc-cbr-vs.-capitals-rents.jpg "Chart 1: Canberra CPI Rents compared to Melbourne and Sydney")
+![Chart showing Canberra rents have risen 15% over the past 5 years, compared to an increase of 3% in Sydney, and a decrease of 2% in Melbourne.](/assets/uploads/act-rents-compared-march-2022-no-source.jpg "Chart 1: Canberra CPI Rents compared to Melbourne and Sydney")
+
+Data: ABS, [Consumer Price Index](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release), March 2022.
 
 Data on asking rents - which are often a leading indicator of trends in the broader ABS rents index - suggest an even larger differential between rents in Canberra and other capital cities. CoreLogic data as of the March quarter 2022, indicates ACT median rents were the highest of any capital city at $674 per week, compared with $621 per week in Sydney and $468 per week in Melbourne. In addition, Canberra asking rents grew at 3.3% in the March quarter, the fastest growth of any capital city.
 
