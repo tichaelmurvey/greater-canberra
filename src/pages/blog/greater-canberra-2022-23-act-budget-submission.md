@@ -6,9 +6,7 @@ thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Greater Canberra 2022-23 ACT Budget Submission
 layout: ../../layouts/BlogLayout.astro
 ---
-Greater Canberra was excited at the opportunity to make the following submission to the 2022-23 ACT Budget consultation. 
-
-Greater Canberra is a community organisation working towards a more liveable, sustainable and affordable Canberra. We are particularly concerned with representing the voices of younger Canberrans and renters in debates around urban planning and local housing policy.
+*Greater Canberra is excited to the follow submission, which we shared with the ACT Government as part of the 2022-23 ACT Budget consultation.*
 
 While Canberra prides itself on being a community where people of all backgrounds can find economic opportunities, our current exclusionary planning system and high rents mean those opportunities are increasingly out of reach for many Canberrans.
 
