@@ -3,7 +3,7 @@ title: "Media Release: Greater Canberra analysis shows high rents are hurting
   families and turning away workers"
 author: Greater Canberra
 date: 2022-06-04
-thumbnail: /assets/uploads/screen-shot-2022-06-04-at-8.57.35-pm.png
+thumbnail: /assets/uploads/media-release.jpg
 description: Greater Canberra analysis shows high rents are hurting families and
   turning away workers
 layout: ../../layouts/BlogLayout.astro
