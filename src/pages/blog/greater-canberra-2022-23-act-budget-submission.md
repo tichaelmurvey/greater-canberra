@@ -38,20 +38,33 @@ This submission focuses on the economic impacts of Canberra’s current high hou
 
 ## 2 **Impact of high rents on the ACT economy**
 
-Housing costs represent a large component of household expenditure across Australia, and are an important contributor to financial stress, in particular among low income households. 
+Housing costs represent a large component of household expenditure across Australia, and are an important contributor to financial stress, in particular among low income households (AIHW, [Housing Affordability](https://www.aihw.gov.au/reports/australias-welfare/housing-affordability), 2021).
 
-While much of the media coverage of the housing market focuses on the impact of high house prices, our analysis here largely focuses on the negative impact of high rents. Trends in rents are particularly important to the ACT economy because rates of renting in the ACT tend to be slightly above the national average, and housing costs make up a higher proportion of household expenditure for renters, as compared to homeowners.
+While much of the media coverage of the housing market focuses on the impact of high house prices, our analysis here largely focuses on the negative impact of high rents. Trends in rents are particularly important to the ACT economy because rates of renting in the ACT tend to be slightly above the national average, and housing costs make up a higher proportion of household expenditure for renters, as compared to homeowners (ABS, [Housing Occupancy and Costs](https://www.abs.gov.au/statistics/people/housing/housing-occupancy-and-costs/latest-release), 2019-20).
 
 Our research indicates that recent increases in ACT rents have had a marked impact on the cost of living in Canberra as compared to other Australian capital cities, which has increased financial stress among Canberrans, and significantly reduced ACT interstate migration.
 
 ### 2.1 Trends in ACT rents
 
-Over the five years to March 2022, Canberra rents increased steadily at an average annual rate of around 2.8%, compared to annual CPI growth of around 2.6%. This has resulted in Canberra rents increasing by a total of 15% over the past five years, compared with an increase of just 3% in Sydney and a decrease of 2% in Melbourne (see Chart 1).
+Over the five years to March 2022, Canberra rents increased steadily at an average annual rate of around 2.8%, compared to annual CPI growth of around 2.6% (ABS, [Consumer Price Index](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release), March 2022). This has resulted in Canberra rents increasing by a total of 15% over the past five years, compared with an increase of just 3% in Sydney and a decrease of 2% in Melbourne (see Chart 1).
 
 ![Chart showing Canberra rents have risen 15% over the past 5 years, compared to an increase of 3% in Sydney, and a decrease of 2% in Melbourne.](/assets/uploads/act-rents-compared-march-2022-no-source.jpg "Chart 1: Canberra CPI Rents compared to Melbourne and Sydney")
 
 Data: ABS, [Consumer Price Index](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release), March 2022.
 
-Data on asking rents - which are often a leading indicator of trends in the broader ABS rents index - suggest an even larger differential between rents in Canberra and other capital cities. CoreLogic data as of the March quarter 2022, indicates ACT median rents were the highest of any capital city at $674 per week, compared with $621 per week in Sydney and $468 per week in Melbourne. In addition, Canberra asking rents grew at 3.3% in the March quarter, the fastest growth of any capital city.
+Data on asking rents - which are often a leading indicator of trends in the broader ABS rents index - suggest an even larger differential between rents in Canberra and other capital cities. CoreLogic data as of the March quarter 2022, indicates ACT median rents were the highest of any capital city at $674 per week, compared with $621 per week in Sydney and $468 per week in Melbourne (CoreLogic, [Quarterly Rental Review](https://www.corelogic.com.au/news-research/reports/quarterly-rental-review), 2022). In addition, Canberra asking rents grew at 3.3% in the March quarter, the fastest growth of any capital city.
 
-In summary, these data strongly suggest that the ACT is facing an ongoing shortage of rental accommodation. This is supported by data on residential vacancy rates, which indicates that Canberra’s residential vacancy rates have been persistently lower than 2% since 2015.
+In summary, these data strongly suggest that the ACT is facing an ongoing shortage of rental accommodation. This is supported by data on residential vacancy rates, which indicates that Canberra’s residential vacancy rates have been persistently lower than 2% since 2015 (SQM Research, [Vacancy Rates - Canberra](https://sqmresearch.com.au/graph_vacancy.php?region=act-Canberra&type=c&t=1), 2022).
+
+### \
+2.2 Impact of high rents on ACT net interstate migration
+
+#### 2.2.1 Historical trends in interstate migration
+
+From April 2013 to December 2014, the annual average quarterly arrivals into Canberra were at the lowest rates they have been since June 2002, varying between 4,500 to 4,800 individuals. From December 2014 to December 2017, this rose steadily to 5,500, before increasing slowly to 5,600 in December 2018. The value fell throughout 2019 and 2020 to 5,000 until rebounding to 5,400 in the March 2021 quarter (see Chart 2). 
+
+
+
+#### 2.2.2 Impact of rents on recent interstate migration
+
+Interstate migration is driven chiefly by employment outcomes and housing costs. This is evident in data from the ACT over the last 20 years, which shows that interstate arrivals generally decrease as the gap between ACT rents and rents in other Australian capital cities increases (see Chart 2).
