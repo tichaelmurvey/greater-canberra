@@ -10,7 +10,7 @@ layout: ../../layouts/BlogLayout.astro
 ---
 Greater Canberra’s 2022-23 ACT Budget submission focuses on the economic costs of Canberra’s skyrocketing rents, which are the highest of any Australian capital city. 
 
-“Canberrans pride ourselves on being a community where people of all backgrounds can find economic opportunities. But our current exclusionary planning laws and high rents mean those opportunities are increasingly out of reach for many, while many Canberrans are pushed into poverty. We need a planning system that creates more housing options for all Canberrans, young or old.” - Howard Maclean, Greater Canberra
+“Canberrans pride ourselves on being a community where people of all backgrounds can find economic opportunities. But our current exclusionary planning laws and high rents mean those opportunities are increasingly out of reach, as many Canberrans are pushed into poverty. We need a planning system that creates more housing options for all Canberrans, young or old.” - Howard Maclean, Greater Canberra
 
 Because rent payments make up a large part of the household budget for many young and low-income families, recent rent increases have significantly reduced discretionary incomes for many Canberrans, and made it hard for employers to attract new talent to the ACT.
 
