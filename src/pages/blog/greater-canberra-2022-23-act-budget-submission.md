@@ -6,8 +6,6 @@ thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Greater Canberra 2022-23 ACT Budget Submission
 layout: ../../layouts/BlogLayout.astro
 ---
-## Introduction
-
 Greater Canberra was excited at the opportunity to make the following submission to the 2022-23 ACT Budget consultation. 
 
 Greater Canberra is a community organisation working towards a more liveable, sustainable and affordable Canberra. We are particularly concerned with representing the voices of younger Canberrans and renters in debates around urban planning and local housing policy.
@@ -56,8 +54,7 @@ Data on asking rents - which are often a leading indicator of trends in the broa
 
 In summary, these data strongly suggest that the ACT is facing an ongoing shortage of rental accommodation. This is supported by data on residential vacancy rates, which indicates that Canberra’s residential vacancy rates have been persistently lower than 2% since 2015 (SQM Research, [Vacancy Rates - Canberra](https://sqmresearch.com.au/graph_vacancy.php?region=act-Canberra&type=c&t=1), 2022).
 
-### \
-2.2 Impact of high rents on ACT net interstate migration
+### 2.2 Impact of high rents on ACT net interstate migration
 
 #### 2.2.1 Historical trends in interstate migration
 
