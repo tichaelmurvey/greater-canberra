@@ -14,7 +14,7 @@ Greater Canberra’s 2022-23 ACT Budget submission focuses on the economic costs
 
 Because rent payments make up a large part of the household budget for many young and low-income families, recent rent increases have significantly reduced discretionary incomes for many Canberrans, and made it hard for employers to attract new talent to the ACT.
 
-Greater Canberra analysis of interstate migration data, produced for the submission, shows that high rents are causing many potential future Canberrans to forgo moving to the ACT altogether.
+Greater Canberra analysis of interstate migration data shows that high rents are causing many potential future Canberrans to forgo moving to the ACT altogether.
 
 “Our broken housing market is hurting residents and turning new arrivals away from the ACT. That means fewer people able to rejoin family in Canberra, fewer talented employees for ACT businesses, and fewer people able to take advantage of our abundant renewable energy.” - Howard Maclean
 
