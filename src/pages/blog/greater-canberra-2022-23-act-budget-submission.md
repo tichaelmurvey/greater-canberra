@@ -1,7 +1,7 @@
 ---
 title: Greater Canberra 2022-23 ACT Budget Submission
 author: Greater Canberra
-date: 2022-06-03
+date: 2022-06-05
 thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Greater Canberra 2022-23 ACT Budget Submission
 layout: ../../layouts/BlogLayout.astro
