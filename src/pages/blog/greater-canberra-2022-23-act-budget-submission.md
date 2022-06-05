@@ -4,9 +4,11 @@ author: Greater Canberra
 date: 2022-06-04
 thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Greater Canberra 2022-23 ACT Budget Submission
+sources: "*[You can download a PDF version with additional appendix
+  here.](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*"
 layout: ../../layouts/BlogLayout.astro
 ---
-*Greater Canberra is excited to share the following submission, which was prepared for the 2022-23 ACT Budget consultation. [Download PDF version with appendix](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*
+*Greater Canberra is excited to share the following submission, which was prepared for the 2022-23 ACT Budget consultation.*
 
 While Canberra prides itself on being a community where people of all backgrounds can find economic opportunities, our current exclusionary planning system and high rents mean those opportunities are increasingly out of reach for many Canberrans.
 
