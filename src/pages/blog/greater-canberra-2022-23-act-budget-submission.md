@@ -4,8 +4,7 @@ author: Greater Canberra
 date: 2022-06-04
 thumbnail: /assets/uploads/1280px-canberra_viewed_from_mount_ainslie.jpg
 description: Greater Canberra 2022-23 ACT Budget Submission
-sources: "*[You can download a PDF version with additional appendix
-  here.](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*"
+sources: ""
 layout: ../../layouts/BlogLayout.astro
 ---
 *Greater Canberra is excited to share the following submission, which was prepared for the 2022-23 ACT Budget consultation.*
@@ -144,3 +143,5 @@ In particular we note and support several recommendations made by the ACTCOSS in
 We note that these recommendations are complementary to ongoing efforts to decrease market rents and house prices. The current high demand for social housing leads to long waitlists, meaning that social housing in the ACT cannot act as a genuine alternative for the many low-income Canberrans facing housing stress in the private rental market. Relatedly, higher housing costs in the private market increase the risk of housing stress and the demand for social housing (see Colburn and Aldern, [Homelessness is a Housing Problem](https://homelessnesshousingproblem.com/), 2022).
 
 By reforming the ACT planning system to provide more affordable market-rate homes across Canberra, and increasing social housing supply, the ACT Government can reduce the number of Canberrans in housing stress while also ensuring adequate social housing units are available for those most at risk of homelessness.
+
+*[You can download a PDF version with additional appendix here.](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*
