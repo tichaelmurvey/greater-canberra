@@ -144,4 +144,4 @@ We note that these recommendations are complementary to ongoing efforts to decre
 
 By reforming the ACT planning system to provide more affordable market-rate homes across Canberra, and increasing social housing supply, the ACT Government can reduce the number of Canberrans in housing stress while also ensuring adequate social housing units are available for those most at risk of homelessness.
 
-*[You can download a PDF version with additional appendix here.](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*
+*[You can download a PDF version of the above submission with additional appendix here.](/assets/uploads/greater-canberra-2022-23-act-budget-submission.pdf)*
