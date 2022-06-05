@@ -127,7 +127,7 @@ Analysis by Greater Canberra indicates that around 20,000 RZ1-zoned blocks in th
 
 Broader reforms to provide more housing options for Canberrans could have an even greater impact on ACT housing costs. For instance, if the inner Canberra suburbs of Deakin, Forrest and Yarralumla were rezoned to accommodate the same population density as the leafy-green Melbourne suburb of Toorak, they could accommodate around 40,000 people in total, up from just 7,400 as at the 2016 census. This would massively expand the supply of homes in the ACT near jobs, transit, and amenities, and have a meaningful impact on housing affordability.
 
-There is similarly strong potential to take inspiration from successful zoning reform efforts conducted overseas. Analysis of planning reforms introduced in New Zealand, which permitted construction of up to three units on all urban blocks, indicates that similar reforms applied just to Canberra’s inner suburbs would allow for the development of 30,000 to 50,000 new homes (see ABC, [Media article](<>), 2022).
+There is similarly strong potential to take inspiration from successful zoning reform efforts conducted overseas. Analysis of planning reforms introduced in New Zealand, which permitted construction of up to three units on all urban blocks, indicates that similar reforms applied just to Canberra’s inner suburbs would allow for the development of 30,000 to 50,000 new homes (see ABC, [Media article](https://www.abc.net.au/news/2022-04-08/can-radical-rezoning-solve-canberras-housing-crisis/100974080), 2022).
 
 ## 4 Impacts of high housing costs on economic opportunity in the ACT
 
