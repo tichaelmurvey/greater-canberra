@@ -12,7 +12,7 @@ Greater Canberra’s 2022-23 ACT Budget submission focuses on the economic costs
 
 “Canberrans pride ourselves on being a community where people of all backgrounds can find economic opportunities. But our current exclusionary planning laws and high rents mean those opportunities are increasingly out of reach, as many Canberrans are pushed into poverty. We need a planning system that creates more housing options for all Canberrans, young or old.” - Howard Maclean, Greater Canberra
 
-Because rent payments make up a large part of the household budget for many young and low-income families, recent rent increases have significantly reduced discretionary incomes for many Canberrans, and made it hard for employers to attract new talent to the ACT.
+Because rent payments make up a large part of the household budget for young and low-income families, recent rent increases have significantly reduced discretionary incomes, and made it hard for employers to attract new talent to the ACT.
 
 Greater Canberra analysis of interstate migration data shows that high rents are causing many potential future Canberrans to forgo moving to the ACT altogether.
 
@@ -22,4 +22,4 @@ Greater Canberra’s ACT Budget submission calls for planning reforms to enable 
 
 The submission also joins other ACT community organisations such as ACTCOSS in calling for the ACT Government to speed up social and community housing supply. 
 
-The full submission can be [read in full here](https://www.greatercanberra.org/blog/greater-canberra-2022-23-act-budget-submission/).
+The submission can be [read in full here](https://www.greatercanberra.org/blog/greater-canberra-2022-23-act-budget-submission/).
