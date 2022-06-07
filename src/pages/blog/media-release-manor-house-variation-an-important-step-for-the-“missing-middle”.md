@@ -1,6 +1,6 @@
 ---
-title: "Media release: Manor House variation an important step for the “missing
-  middle”"
+title: 'Media release: Manor House variation an important step for the "missing
+  middle"'
 author: Greater Canberra
 date: 2022-06-07
 thumbnail: /assets/uploads/media-release.jpg
