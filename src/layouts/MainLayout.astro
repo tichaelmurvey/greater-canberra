@@ -1,7 +1,14 @@
 ---
 import NavList from '../components/NavList.astro';
 let {title} = Astro.props;
-let {seo_thumbnail} = Astro.props;
+
+let seo_thumbnail;
+if (Astro.props.seo_thumbnail && Astro.props.seo_thumbnail[0] == '/') {
+    seo_thumbnail = Astro.site.href + Astro.props.seo_thumbnail.substring(1);
+} else {
+    seo_thumbnail = Astro.props.seo_thumbnail;
+}
+
 const path = Astro.site.pathname;
 ---
 
