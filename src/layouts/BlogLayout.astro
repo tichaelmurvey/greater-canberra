@@ -7,7 +7,7 @@ const {content} = Astro.props;
 let article_date = new Date(content.date);
 article_date = article_date.getDate() + "/" + (article_date.getMonth()+1) + "/" + article_date.getFullYear()
 ---
-<MainLayout title={content.title} seo_thumbnail={ content.thumbnail }>
+<MainLayout title={content.title} seo_thumbnail={ content.thumbnail } description={content.description}>
     <section class="blog-display">
     <article class="full-page-article">
       <h1>{content.title}</h1>

@@ -1,6 +1,6 @@
 ---
 import NavList from '../components/NavList.astro';
-let {title} = Astro.props;
+let {title, description} = Astro.props;
 
 let seo_thumbnail;
 if (Astro.props.seo_thumbnail && Astro.props.seo_thumbnail[0] == '/') {
@@ -17,9 +17,10 @@ const path = Astro.site.pathname;
     <meta property="og:image" content={seo_thumbnail}>
     <meta property="og:title" content={title}>
     <meta property="og:site_name" content="Greater Canberra">
+    <meta property="og:description" content={description}>
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@GreaterCanberra">
-    <meta name="twitter:description" content="Greater Canberra is a community advocacy group committed to affordable and high-quality housing in Canberra.">
+    <meta name="twitter:description" content={description}>
     <meta name="twitter:title" content={title}>
     <meta name="twitter:image" content={seo_thumbnail}>
     <link rel="preconnect" href="https://fonts.googleapis.com">
