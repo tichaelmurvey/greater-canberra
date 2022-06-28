@@ -12,7 +12,7 @@ This 11,400 per year growth in population from 2016-2021 compares with the ~7,00
 
 While the ACT Government’s [Residential Supply and Demand Model](https://www.environment.act.gov.au/about-us/access-government-information/disclosure-log/disclosure-logs/epsdd-2218402) (which Greater Canberra obtained through FOI) assumed it would take until 2026 for the ACT to reach a population of 450,000, the latest Census data shows the ACT has already hit this mark. This is the model that the ACT Government uses to ensure that housing supply keeps up with population growth, and it is half a decade behind the ball. 
 
-“The Census reveals that the ACT’s planning strategy and housing supply models are drastically off target and off track. It’s time for Canberra to act decisively to create a planning system that can accommodate this higher level of growth, by providing for more gentle density in our inner city areas, allowing more Canberrans to live near jobs and family.”
+“The Census reveals that the ACT’s planning strategy and housing supply models are drastically off target and off track. It’s time for Canberra to act decisively to create a planning system that can accommodate this higher level of growth, by providing for more gentle density in our inner city areas, allowing more Canberrans to live near jobs and family.” - Howard Maclean, Convenor
 
 The Census data also reveals that Canberra’s median rents have risen $2,000 a year in real terms from 2016 to 2021, the second highest increase of all the capital cities.This is a symptom of a planning system that is failing to provide adequate housing supply, and Canberrans are paying for it in rising living costs, rents and house prices. 
 
