@@ -7,9 +7,9 @@ description: Our newsletter update for July 2022
 layout: ../../layouts/BlogLayout.astro
 ---
 
-_The following newsletter was recently shared with our mailing list. If you're keen to keep up to date with our work, you can join our mailing list [here](https://www.greatercanberra.org/mail), or sign up to become a member [here](https://www.greatercanberra.org/join/).
+*The following newsletter was recently shared with our mailing list. If you're keen to keep up to date with our work, you can join our mailing list [here](https://www.greatercanberra.org/mail), or sign up to become a member [here](https://www.greatercanberra.org/join/).*
 
-We'll also soon be holding our first in-person members and supporters meet-up, at 2pm on Saturday 16 July at King O’Malley’s. The event will be a chance to meet up with other pro-housing Canberrans, find out more about how to support important housing projects across Canberra, and help kick-start our next round of advocacy work. You can RSVP online [via Facebook](https://fb.me/e/2HqlT9X4O), or just [send us an email](https://www.greatercanberra.org/contact/)._
+*We'll also soon be holding our first in-person members and supporters meet-up, at 2pm on Saturday 16 July at King O’Malley’s. The event will be a chance to meet up with other pro-housing Canberrans, find out more about how to support important housing projects across Canberra, and help kick-start our next round of advocacy work. You can RSVP online [via Facebook](https://fb.me/e/2HqlT9X4O), or just [send us an email](https://www.greatercanberra.org/contact/).*
 
 ## What we’ve been up to
 
