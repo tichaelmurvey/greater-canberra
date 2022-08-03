@@ -2,7 +2,7 @@
 title: "Budget sets the right housing target, but needs a path to delivery"
 author: Howard Maclean
 date: 2022-08-04
-thumbnail: /assets/uploads/276057713_135424049009813_4119249007812615753_n.jpg
+thumbnail: /assets/assembly.jpg
 description: The ACT Budget’s target of 30,000 new homes is good - now, the Government needs to articulate a path to deliver these 30,000 more homes - and that’s where its plan falls short.
 layout: ../../layouts/BlogLayout.astro
 ---
