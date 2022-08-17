@@ -1,3 +1,12 @@
+---
+title: Newsletter Update - August 2022
+author: Greater Canberra
+date: 2022-08-17
+thumbnail: /assets/uploads/img_20211007_143611.jpg
+description: Our newsletter update for August 2022
+layout: ../../layouts/BlogLayout.astro
+---
+
 *The following newsletter was recently shared with our mailing list. If
 you're keen to keep up to date with our work, you can join our mailing
 list [here](https://www.greatercanberra.org/mail), or sign up to become
