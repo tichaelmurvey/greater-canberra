@@ -2,7 +2,7 @@
 title: Newsletter Update - August 2022
 author: Greater Canberra
 date: 2022-08-17
-thumbnail: /assets/uploads/img_20211007_143611.jpg
+thumbnail: /assets/uploads/Inner North from Ainslie - Gerda.jpg
 description: Our newsletter update for August 2022
 layout: ../../layouts/BlogLayout.astro
 ---
