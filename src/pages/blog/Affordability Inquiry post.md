@@ -17,7 +17,7 @@ layout: ../../layouts/BlogLayout.astro
 
 As rents and house prices in the ACT continue to rise, housing affordability has become major concern for many Canberrans. Thankfully, the ACT Legislative Assembly is listening to these concerns, with the Standing Committee on Economy and Gender and Economic Equality now conducting an inquiry on the issue of housing and rental affordability. 
 
-But what's really causing ACT rents to keep rising, and what solutions should this inquiry consider? Greater Canberra's submission to the inquiry (available online here) makes the case for planning reforms as an essential part of response to rising rents.
+But what's really causing ACT rents to keep rising, and what solutions should this inquiry consider? Greater Canberra's submission to the inquiry (available online at the link above) makes the case for planning reforms as an essential part of response to rising rents.
 
 ### Reducing vacant homes is good, but won't solve our housing crisis
 
