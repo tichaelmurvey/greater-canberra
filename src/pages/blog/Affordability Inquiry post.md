@@ -6,7 +6,7 @@ author: Greater Canberra
 
 date: 2022-08-18
 
-thumbnail: /assets/Belco construction - Daniel Morton.jpg
+thumbnail: /assets/uploads/Belco construction - Daniel Morton.jpg
 
 description: Our sub
 
