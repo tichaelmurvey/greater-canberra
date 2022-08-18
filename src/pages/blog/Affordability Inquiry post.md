@@ -19,7 +19,7 @@ As rents and house prices in the ACT continue to rise, housing affordability has
 
 But what's really causing ACT rents to keep rising, and what solutions should this inquiry consider? Greater Canberra's submission to the inquiry (available online here) makes the case for planning reforms as an essential part of response to rising rents.
 
-## Why reducing vacant homes is good, but won't solve our housing crisis
+### Reducing vacant homes is good, but won't solve our housing crisis
 
 To start with, it's worth remembering just how high Canberra's rents are. While our population and economy have boomed, our home building hasn't kept pace, meaning rents over the past 5 years have grown by 16%. This is much faster than Melbourne or Sydney, where rents have barely increased since 2017. This burden falls particularly hard on low income renters, who on average tend to pay more of their household income in housing costs than other Canberrans.
 
@@ -33,7 +33,7 @@ International evidence also suggests that increasing taxes on vacant homes will 
 
 Obviously we should still look to push any vacant homes onto the market - every additional home matters. Canberra already levies land tax on vacant properties, and there's potential to increase or better enforce it. But stronger vacancy taxes are not alone a solution to the housing crisis. We need to think bigger and act to create far more homes if we want to stabilise rents across the ACT.
 
-## It's time for planning reforms to improve affordability 
+### It's time for planning reforms to improve affordability 
 
 So what else can we do? Well as we argue in our submission, the ultimate goal of any rental affordability policy (vacancy taxes or otherwise) should be to increase the supply of homes on the rental market. More homes means more choices and more bargaining power for renters.
 
@@ -47,7 +47,7 @@ So what's stopping us building more of these kinds of social and market-rate hou
 
 In addition, many market-rate and [social housing projects](https://www.canberratimes.com.au/story/7420810/men-are-still-making-the-final-calls-on-womens-safety/) are held up in court by wealthy neighbours, because our planning laws allow almost anyone to appeal planning decisions to ACAT.
 
-## A positive plan to improve housing affordability
+### A positive plan to improve housing affordability
 
 That's why our submission to the inquiry includes a range of recommendations for planning reforms to allow more and better housing to be built across the ACT, from allowing more duplexes and townhouses in RZ1-zoned areas, to upzoning more areas near to rapid transit routes. 
 
