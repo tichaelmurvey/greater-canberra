@@ -1,4 +1,4 @@
-﻿\---
+---
 
 title: "Why building more homes is key to fixing our affordability crisis"
 
@@ -11,10 +11,9 @@ thumbnail: /assets/Belco construction - Daniel Morton.jpg
 description: Our sub
 
 layout: ../../layouts/BlogLayout.astro
+---
 
-\---
-
-\*The following post summarises our submission to the Housing and Rental Affordability Inquiry, which is available on the [Committee website](https://www.parliament.act.gov.au/\_\_data/assets/pdf\_file/0011/2059517/015-Greater-Canberra.pdf).\*
+*The following post summarises our submission to the Housing and Rental Affordability Inquiry, which is available on the [Committee website](https://www.parliament.act.gov.au/\_\_data/assets/pdf\_file/0011/2059517/015-Greater-Canberra.pdf).\*
 
 As rents and house prices in the ACT continue to rise, housing affordability has become major concern for many Canberrans. Thankfully, the ACT Legislative Assembly is listening to these concerns, with the Standing Committee on Economy and Gender and Economic Equality now conducting an inquiry on the issue of housing and rental affordability. 
 
@@ -56,4 +55,4 @@ Our submission to the inquiry also includes other recommendations that go to inc
 
 Ultimately, we're encouraged to see the ACT Legislative Assembly taking this issue seriously. We owe it to the many Canberrans struggling through our housing crisis to get our policy response right. And that means looking beyond just vacancy taxes, to consider more impactful planning reforms that will ensure everyone in Canberra has a place to call home. 
 
-\*If you're keen to support our work, consider [joining as a member](http://greatercanberra.org/join) or signing up to [our mailing list](http://greatercanberra.org/mail).\*
+*If you're keen to support our work, consider [joining as a member](http://greatercanberra.org/join) or signing up to [our mailing list](http://greatercanberra.org/mail).\*
