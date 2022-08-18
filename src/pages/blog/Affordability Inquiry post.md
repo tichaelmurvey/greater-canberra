@@ -31,7 +31,7 @@ For comparison, the latest ICON water data indicates that around 2400 properties
 
 International evidence also suggests that increasing taxes on vacant homes will probably have a fairly modest impact on reducing the vacancy rates, with [studies of vacancy taxes in France](https://www.sciencedirect.com/science/article/pii/S0047272719301409) finding they led to a 13% reduction. That's clearly not nothing, but applied against ICON water's true vacancy stats, that's around 312 homes, or a middling sized apartment block.
 
-Obviously we should still look to push any vacant homes onto the market - every additional home matters. Canberra already levies land tax on vacant properties, and there's potential to increase or better enforce it. But stronger vacancy taxes are not alone a solution to the housing crisis. We need to think bigger and act to create far more homes if we want to stabilise rents across the ACT.
+Obviously we should still look to push any vacant homes onto the market - every additional home matters. Canberra already levies land tax on vacant properties, and there's potential to increase or better enforce it. But by themselves stronger vacancy taxes are not a solution to the housing crisis. We need to think bigger and act to create far more homes if we want to stabilise rents across the ACT.
 
 ### It's time for planning reforms to improve affordability 
 
