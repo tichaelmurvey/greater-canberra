@@ -8,7 +8,7 @@ date: 2022-08-18
 
 thumbnail: /assets/uploads/Belco construction - Daniel Morton.jpg
 
-description: Our sub
+description: The Legislative Assembly is conducting an inquiry into housing. We have a positive plan to improve housing affordability.
 
 layout: ../../layouts/BlogLayout.astro
 ---
