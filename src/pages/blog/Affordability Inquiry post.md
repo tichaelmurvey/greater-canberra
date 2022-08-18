@@ -13,7 +13,7 @@ description: Our sub
 layout: ../../layouts/BlogLayout.astro
 ---
 
-*The following post summarises our submission to the Housing and Rental Affordability Inquiry, which is available on the [Committee website](https://www.parliament.act.gov.au/\_\_data/assets/pdf\_file/0011/2059517/015-Greater-Canberra.pdf).*
+*The following post summarises our submission to the ACT Legislative Assembly's Standing Committee on Economy and Gender and Economic Equality inquiry into Housing and Rental Affordability, which is available on the [Committee website](https://www.parliament.act.gov.au/\_\_data/assets/pdf\_file/0011/2059517/015-Greater-Canberra.pdf).*
 
 As rents and house prices in the ACT continue to rise, housing affordability has become major concern for many Canberrans. Thankfully, the ACT Legislative Assembly is listening to these concerns, with the Standing Committee on Economy and Gender and Economic Equality now conducting an inquiry on the issue of housing and rental affordability. 
 
